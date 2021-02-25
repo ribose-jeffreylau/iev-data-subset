@@ -22,6 +22,7 @@ proposals:
         zho: 3846b389-8a6d-5178-ac93-09820d02e510
     classID: concept
     subregisterID: universal
+    accepted: true
 sponsor:
   role: manager
   name: Demo user
