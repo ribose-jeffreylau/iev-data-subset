@@ -1,0 +1,14 @@
+id: 092508d3-31c9-431b-9319-22d651bee94b
+justification: ''
+timeStarted: 2021-02-25T12:33:57.086Z
+proposals: {}
+sponsor:
+  role: manager
+  name: Demo user
+  gitServerUsername: demouser
+  parties:
+    - name: ''
+      contacts:
+        - label: email
+          value: open@ribose.com
+status: pending
