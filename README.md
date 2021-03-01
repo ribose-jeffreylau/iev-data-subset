@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 
-Node 15 and Yarn.
+Node 14 (can use NVM for managing Node versions) and Yarn.
 
 Run Yarn from repository root:
 
