@@ -7,7 +7,7 @@ data:
   id: 103-04-12
   language_code: eng
   notes:
-  - '`f ( t )` and a wavelet `psi ( t )`:
+  - 'For a function `f ( t )` and a wavelet `psi ( t )`:
 
 
     `C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t`

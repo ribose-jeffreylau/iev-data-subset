@@ -8,7 +8,10 @@ data:
   id: 801-31-09
   language_code: eng
   notes:
-  - '`T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
+  - 'The Eyring reverberation-time equation is:
+
+
+    `T = ((( 24 ln 10 ) V))/((- c S ln ( 1 - bar alpha )))`
 
 
     where:

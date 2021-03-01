@@ -7,7 +7,7 @@ data:
   id: 103-04-12
   language_code: fra
   notes:
-  - '`f ( t )` et une ondelette `psi ( t )`:
+  - 'Pour une fonction `f ( t )` et une ondelette `psi ( t )`:
 
 
     `C_f ( a , b ) = int_(- oo)^(+ oo) f ( t ) psi_(a , b)^( ** ) ( t ) d t`

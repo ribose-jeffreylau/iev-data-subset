@@ -8,12 +8,13 @@ data:
   id: 845-21-047
   language_code: eng
   notes:
-  - '`A` and d`A`′ at distance `l`, with normal vectors `n_A` and `n^( '' )_A` and
-    orientation angles `θ` and `θ`′ with respect to a common optical axis, the geometric
-    extent is equal to the action of all possible rays between both surface areas
-    `A` and `A`′. This is expressed by the integral over the product of all projected
-    area elements d`A` cos `θ` and d`A`′ cos `θ`′ weighted by the distance squared
-    to account for the apparent size of the subtending surfaces areas:
+  - 'Defining a ray as the confined radiation exchange between two subtended surface
+    area elements d`A` and d`A`′ at distance `l`, with normal vectors `n_A` and `n^(
+    '' )_A` and orientation angles `θ` and `θ`′ with respect to a common optical axis,
+    the geometric extent is equal to the action of all possible rays between both
+    surface areas `A` and `A`′. This is expressed by the integral over the product
+    of all projected area elements d`A` cos `θ` and d`A`′ cos `θ`′ weighted by the
+    distance squared to account for the apparent size of the subtending surfaces areas:
 
 
     `G = (1)/((l^2)) underset(A)( int ) underset(A^( '' ))( int ) d A cos theta *
@@ -41,7 +42,7 @@ data:
   - designation: geometric extent
     normative_status: preferred
     type: expression
-  - designation: '`G`*'
+  - designation: '*`G`*'
     international: true
     type: symbol
 dateAccepted: 2020-12-01

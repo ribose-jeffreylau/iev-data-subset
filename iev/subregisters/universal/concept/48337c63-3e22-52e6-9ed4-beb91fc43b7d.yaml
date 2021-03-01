@@ -1,5 +1,5 @@
 data:
-  identifier: 395-07-1433
+  identifier: 395-07-143
   localizedConcepts:
     deu: f2337cc4-0e68-5217-be11-8d1238d1b608
     eng: 054f2cfc-d04d-5cbc-aa08-a35c207a23f6
@@ -11,6 +11,6 @@ data:
     por: 02464fab-9e46-5407-9aeb-69753af17a24
     spa: 3784bde4-fe69-583c-b7dc-b6c5f5610d7e
     zho: ca56572a-7087-5457-a612-45fead0413ae
-dateAccepted: 2018-11-17T00:00:00.000Z
+dateAccepted: 2018-11-17
 id: 48337c63-3e22-52e6-9ed4-beb91fc43b7d
 status: valid

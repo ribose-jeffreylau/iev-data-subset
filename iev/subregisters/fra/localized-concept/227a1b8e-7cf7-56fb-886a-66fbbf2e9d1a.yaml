@@ -7,11 +7,12 @@ data:
   id: 845-21-047
   language_code: fra
   notes:
-  - '`A` et d`A`′ à une distance `l`, avec les vecteurs normaux `n_A` et `n^( '' )_A`
-    et les angles d''orientation `θ` et `θ`′ par rapport à un axe optique commun,
-    l''étendue géométrique est égale à l''action de tous les rayons possibles entre
-    les deux surfaces `A` et `A`′. Ce phénomène est exprimé par l''intégrale étendue
-    au produit de tous les éléments de surface projetée d`A` cos `θ` et d`A`′ cos `θ` ′
+  - 'Définissant un rayon comme l''échange de rayonnements confinés entre deux éléments
+    de surface sous-tendus d`A` et d`A`′ à une distance `l`, avec les vecteurs normaux
+    `n_A` et `n^( '' )_A` et les angles d''orientation `θ` et `θ`′ par rapport à un
+    axe optique commun, l''étendue géométrique est égale à l''action de tous les rayons
+    possibles entre les deux surfaces `A` et `A`′. Ce phénomène est exprimé par l''intégrale
+    étendue au produit de tous les éléments de surface projetée d`A` cos `θ` et d`A`′ cos `θ` ′
     pondérés par la distance au carré afin de tenir compte de la dimension apparente
     des surfaces correspondantes:
 

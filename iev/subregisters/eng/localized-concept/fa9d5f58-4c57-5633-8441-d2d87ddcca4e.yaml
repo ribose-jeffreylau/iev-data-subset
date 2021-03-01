@@ -9,9 +9,10 @@ data:
   id: 692-08-05
   language_code: eng
   notes:
-  - '`t`~`ij`~ is the duration of the `i`th interruption of supply to customer `j`
-    and `n`~`j`~ is the number of times customer `j` is affected during a time interval
-    of duration `T`, then the mean duration of a customer interruption is given by
+  - 'If `t`~`ij`~ is the duration of the `i`th interruption of supply to customer
+    `j` and `n`~`j`~ is the number of times customer `j` is affected during a time
+    interval of duration `T`, then the mean duration of a customer interruption is
+    given by
 
 
     `T_I = ((sum_i sum_j t_((i j))))/((sum_j n_j))`'

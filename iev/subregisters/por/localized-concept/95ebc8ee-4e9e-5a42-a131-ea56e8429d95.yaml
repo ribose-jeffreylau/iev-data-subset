@@ -7,7 +7,7 @@ data:
   notes: []
   review_decision_event: published
   terms:
-  - designation: '`shunt`'
+  - designation: relé de `shunt`
     normative_status: preferred
     type: expression
 dateAccepted: 2018-11-17
