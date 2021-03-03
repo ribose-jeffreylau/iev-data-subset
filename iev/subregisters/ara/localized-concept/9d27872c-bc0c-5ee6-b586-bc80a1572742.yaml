@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: مولد رئيسي للتيار المتردد
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9d27872c-bc0c-5ee6-b586-bc80a1572742
+status: valid

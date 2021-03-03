@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 非均匀量化
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eb3760bb-ed97-5d75-ac5f-7cb8ca56228e
+status: valid

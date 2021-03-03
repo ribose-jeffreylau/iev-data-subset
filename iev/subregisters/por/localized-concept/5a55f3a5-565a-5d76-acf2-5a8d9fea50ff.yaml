@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pressão acústica
+    normative_status: preferred
+    type: expression
+  - designation: pressão sonora
+    type: expression
+dateAccepted: 2018-11-17
+id: 5a55f3a5-565a-5d76-acf2-5a8d9fea50ff
+status: valid

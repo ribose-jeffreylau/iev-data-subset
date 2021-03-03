@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-34
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 地絡リレー
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1e0aaf25-cf60-5413-b61e-513790ccb98c
+status: valid

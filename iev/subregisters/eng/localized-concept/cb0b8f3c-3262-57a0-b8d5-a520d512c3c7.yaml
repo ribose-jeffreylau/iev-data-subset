@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: the peak value of the filament or heater current resulting from the
+    application of the filament or heater voltage under stated conditions
+  examples: []
+  id: 531-16-13
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: filament or heater starting (surge) current
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: cb0b8f3c-3262-57a0-b8d5-a520d512c3c7
+status: valid

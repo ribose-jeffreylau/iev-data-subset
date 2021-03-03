@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: réponse du matériel au gaz concerné en comparaison avec la réponse à
+    d'autres gaz
+  examples: []
+  id: 426-24-54
+  language_code: fra
+  notes:
+  - Dans le cas de sélectivité du gaz cible, les résultats sont moins ambigus et la
+    sensibilité transverse avec d'autres gaz est faible.
+  review_decision_event: published
+  terms:
+  - designation: sélectivité
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: 1054d056-4979-59f9-b1a3-1d6659a2e8c9
+status: valid

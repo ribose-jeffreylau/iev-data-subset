@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-02-83
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: استجابه غير مرغوبة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4565d58b-676f-599c-99f7-632d93147b8b
+status: valid

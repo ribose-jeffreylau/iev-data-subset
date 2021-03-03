@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-12
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 高圧コンデンサ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d6ce3914-924f-5b88-b612-e8fea912d047
+status: valid

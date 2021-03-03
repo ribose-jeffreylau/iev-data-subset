@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: suippo aaltojohto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ecf5ce52-ca02-5493-89a8-5bcd8d079db9
+status: valid

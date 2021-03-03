@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-07-07
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maximal rörbelastning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9c4b1402-be60-5569-8294-450dc990d767
+status: valid

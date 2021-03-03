@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pitkittäissäätö
+    normative_status: preferred
+    type: expression
+  - designation: jännitteen pitkittäissäätö
+    type: expression
+dateAccepted: 2018-11-17
+id: 5926a8e7-a6d4-5951-bd06-d1d58b4094d3
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 902-02-02
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 절차
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9527827d-ac26-53c1-aee3-d023140f27be
+status: valid

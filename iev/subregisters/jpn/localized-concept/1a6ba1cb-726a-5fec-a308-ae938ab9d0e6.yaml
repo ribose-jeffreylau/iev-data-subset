@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-16-23
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 二次防護壁
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1a6ba1cb-726a-5fec-a308-ae938ab9d0e6
+status: valid

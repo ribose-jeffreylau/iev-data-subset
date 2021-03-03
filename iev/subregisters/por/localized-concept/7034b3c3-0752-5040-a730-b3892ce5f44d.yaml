@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transformador do tipo seco com enrolamento(s) encapsulado(s)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7034b3c3-0752-5040-a730-b3892ce5f44d
+status: valid

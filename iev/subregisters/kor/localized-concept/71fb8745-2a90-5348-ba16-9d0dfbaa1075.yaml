@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 안테나 효율
+    normative_status: preferred
+    type: expression
+    usage_info: 개구형 안테나
+dateAccepted: 2018-11-17
+id: 71fb8745-2a90-5348-ba16-9d0dfbaa1075
+status: valid

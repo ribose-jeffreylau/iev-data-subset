@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: diodo unitunnel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b310d23f-d08b-5db7-9026-5dec16debaa1
+status: valid

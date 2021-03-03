@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przekaźnik współpracujący z bocznikiem
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 7a7a7874-0a6c-5094-b35e-732c94d868bd
+status: valid

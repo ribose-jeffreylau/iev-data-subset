@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Rangiersperrsignal
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9bfa69bf-a7f6-51fe-a8e5-d0188fbf0341
+status: valid

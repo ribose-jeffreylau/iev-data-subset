@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: epäresiprookkinen kierrin
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b3a0340d-2dc1-5fa4-b4c6-b89f570ad594
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-17-12
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전달 어드미턴스
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ccdcc5df-70bd-566d-8731-09e33668da30
+status: valid

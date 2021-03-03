@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-10-20
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: puheluaika
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3a95d3a3-74ef-5104-9cde-d63e0f46d5f4
+status: valid

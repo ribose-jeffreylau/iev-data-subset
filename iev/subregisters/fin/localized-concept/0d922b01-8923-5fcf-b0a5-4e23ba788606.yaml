@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-09-08
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: keskinäismodulaatio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0d922b01-8923-5fcf-b0a5-4e23ba788606
+status: valid

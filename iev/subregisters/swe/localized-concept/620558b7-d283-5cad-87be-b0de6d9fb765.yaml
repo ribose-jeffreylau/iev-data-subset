@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: magnetooptisk effekt
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 620558b7-d283-5cad-87be-b0de6d9fb765
+status: valid

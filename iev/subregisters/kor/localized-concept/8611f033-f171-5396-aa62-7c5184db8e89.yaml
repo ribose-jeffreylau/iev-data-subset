@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전기 회로 모형
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8611f033-f171-5396-aa62-7c5184db8e89
+status: valid

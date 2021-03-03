@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-016
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Spektrallinie
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: e60ca003-0e7b-5cb1-a8da-d9c17fd8db47
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-01-15
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 심방 세동
+    normative_status: preferred
+    type: expression
+  - designation: 심방 조동
+    type: expression
+dateAccepted: 2018-11-17
+id: 1130d8d4-b5d7-5749-b3ad-95ed6ccbadc4
+status: valid

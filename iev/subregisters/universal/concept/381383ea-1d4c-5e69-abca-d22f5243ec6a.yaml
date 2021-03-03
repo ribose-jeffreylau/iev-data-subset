@@ -1,0 +1,25 @@
+data:
+  identifier: 713-09-08
+  localizedConcepts:
+    ara: 93843469-5bb6-52bb-bfbd-83ef1938975a
+    deu: 171db8ea-a64b-5dd5-b31f-dd716714e47f
+    eng: 01da274f-7b5f-59a0-8750-516c66574db7
+    fin: 0d922b01-8923-5fcf-b0a5-4e23ba788606
+    fra: 3978f00c-337d-54be-a866-63a90cbaf343
+    ita: 57537cf5-1aca-5f46-9eb0-868b56ddf7be
+    jpn: 5414b2c3-8e1d-5ef9-8a85-8b62aafd7123
+    kor: 3ed7df98-aba9-556f-ab23-28edc15dd896
+    pol: b5f66998-760a-5e1c-9b0d-386af2e5c9bf
+    por: 2ce29cc0-6629-5316-bad2-a238eb7941b7
+    spa: d2efdcae-bbc2-521d-959f-10d1e211c247
+    swe: a21c2915-c59b-5d51-b8a1-e42f89d2037f
+    zho: 469654ec-8eba-5eb7-bd81-3d0adbce7206
+dateAccepted: 2018-11-17
+id: 381383ea-1d4c-5e69-abca-d22f5243ec6a
+related:
+- ref:
+    id: 713-09-08
+    source: IEV
+    version: 1998-04
+  type: supersedes
+status: valid

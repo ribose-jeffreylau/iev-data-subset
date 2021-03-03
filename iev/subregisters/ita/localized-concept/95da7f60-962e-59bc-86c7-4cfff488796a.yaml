@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-78
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: componenti di ripiegamento (componenti di aliasing)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 95da7f60-962e-59bc-86c7-4cfff488796a
+status: valid

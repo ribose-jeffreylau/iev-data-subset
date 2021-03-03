@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-12
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Oberspannungskondensator (eines kapazitiven Spannungsleiters)
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 83856187-05aa-5160-bf1e-450d556255b2
+status: valid

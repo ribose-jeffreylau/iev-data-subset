@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-16-13
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: corrente de aquecimento no arranque
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 90d53d8b-ccb6-5ff5-a889-343d0b7e874c
+status: valid

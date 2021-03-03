@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-04-38
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: цилиндрична површ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7e220249-5ed3-5d4d-8936-420f5a6b4ae2
+status: valid

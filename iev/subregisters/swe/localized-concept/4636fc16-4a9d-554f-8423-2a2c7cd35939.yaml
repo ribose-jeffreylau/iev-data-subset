@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: utgångskrets
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4636fc16-4a9d-554f-8423-2a2c7cd35939
+status: valid

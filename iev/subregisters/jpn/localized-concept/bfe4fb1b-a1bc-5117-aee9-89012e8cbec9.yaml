@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-48
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 整流効果
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bfe4fb1b-a1bc-5117-aee9-89012e8cbec9
+status: valid

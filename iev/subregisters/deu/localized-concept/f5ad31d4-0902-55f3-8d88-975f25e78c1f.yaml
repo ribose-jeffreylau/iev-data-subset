@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Einschalten
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f5ad31d4-0902-55f3-8d88-975f25e78c1f
+status: valid

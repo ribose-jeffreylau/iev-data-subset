@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Längsregelung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a64cee7b-bf58-5dfb-aed7-e0ccbf7db62d
+status: valid

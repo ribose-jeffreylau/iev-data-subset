@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 371-01-04
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: teleindykacja
+    normative_status: preferred
+    type: expression
+  - designation: wskazywanie zdalne
+    type: expression
+dateAccepted: 2018-11-17
+id: b011b9b1-a3e3-5700-8f9f-9172444f3435
+status: valid

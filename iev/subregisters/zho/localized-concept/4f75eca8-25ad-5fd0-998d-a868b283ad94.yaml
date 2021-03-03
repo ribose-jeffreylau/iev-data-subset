@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2007-11-01T00:00:00+00:00'
+  examples: []
+  id: 411-53-58
+  language_code: zho
+  notes: []
+  review_date: '2007-11-01T00:00:00+00:00'
+  review_decision_date: '2007-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 热保护
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-11-01
+id: 4f75eca8-25ad-5fd0-998d-a868b283ad94
+status: valid

@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-143
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Brutmantel
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Mantel
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 37e22df8-a68f-5a1f-ab93-caf30ddaec08
+status: valid

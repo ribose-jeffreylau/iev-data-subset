@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-43-11
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: arkistoida
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c0a88840-38b6-5a32-8574-f0c54e58e235
+status: valid

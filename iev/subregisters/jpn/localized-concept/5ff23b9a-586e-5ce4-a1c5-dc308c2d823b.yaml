@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 電線貫通装置
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ff23b9a-586e-5ce4-a1c5-dc308c2d823b
+status: valid

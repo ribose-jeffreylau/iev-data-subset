@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-19-28
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fase di comando della rete
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 070d6ff6-7562-58e0-9947-1e52f28b6fcf
+status: valid

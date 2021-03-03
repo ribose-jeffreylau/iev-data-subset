@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  definition: number of bits per unit length recorded on a track
+  examples: []
+  id: 807-02-07
+  language_code: eng
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: linear recording density
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 63567c82-8b04-5af9-8203-400f68c5d470
+status: valid

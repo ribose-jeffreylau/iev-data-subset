@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Unitunneldiode
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 740be657-88cb-5411-976e-5d55e232193e
+status: valid

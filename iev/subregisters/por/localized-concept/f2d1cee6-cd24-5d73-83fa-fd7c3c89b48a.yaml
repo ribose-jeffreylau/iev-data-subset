@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-07
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tratamento dos sinais (de programa)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f2d1cee6-cd24-5d73-83fa-fd7c3c89b48a
+status: valid

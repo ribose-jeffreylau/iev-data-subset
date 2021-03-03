@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-90
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: demascheramento (in trasmissione numerica)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7849b517-60d4-5594-81e0-6fc1362198f7
+status: valid

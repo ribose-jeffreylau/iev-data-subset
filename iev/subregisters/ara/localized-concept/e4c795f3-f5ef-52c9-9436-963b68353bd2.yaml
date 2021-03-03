@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-04-05
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: طبقة إنتشار الغاز
+    normative_status: preferred
+    type: expression
+  - designation: طبقة إنتقال المسامية
+    type: expression
+dateAccepted: 2018-11-17
+id: e4c795f3-f5ef-52c9-9436-963b68353bd2
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: współczynnik pochłaniania dźwięku Eyringa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 54f3e442-2520-54c3-b1c1-a0f30539c060
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-22-14
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 냉각
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5679f468-7dde-5444-bf15-21dfd780aa66
+status: valid

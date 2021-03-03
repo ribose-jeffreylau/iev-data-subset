@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 인터록 부호
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c7ffd3d6-03df-5ec2-bffd-3a8476f7e6de
+status: valid

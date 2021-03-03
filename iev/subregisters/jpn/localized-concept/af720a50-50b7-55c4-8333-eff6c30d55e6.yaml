@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-58
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: X 線造影剤
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: af720a50-50b7-55c4-8333-eff6c30d55e6
+status: valid

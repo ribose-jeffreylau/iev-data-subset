@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 선택적 보호 선로전환기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 28948e69-aec7-5578-9eee-f2d9ef79643b
+status: valid

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 531-16-13
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: フィラメントまたはヒータ起動（サージ）電流
+    normative_status: preferred
+    type: expression
+  - designation: フィラメントまたはヒータ起動電流
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2c085761-e4ec-57b6-b78a-0bd52dccca3c
+status: valid

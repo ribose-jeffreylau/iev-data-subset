@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: Voir {{IEV 704-24-08, IEV:704-24-08}}
+  examples: []
+  id: 723-10-32
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: quantification non uniforme
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 516bbe33-404a-5d50-8ead-8c450fa17ee6
+status: valid

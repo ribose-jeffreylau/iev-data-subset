@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ohjaajasta riippuva käsikäyttö
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 29800fdb-9699-5340-962c-7247fe243d98
+status: valid

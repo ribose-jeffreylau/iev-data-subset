@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: takadiodi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fdd24290-64a6-5e07-8c23-7f286c5cdf4c
+status: valid

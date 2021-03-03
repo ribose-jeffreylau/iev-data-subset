@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Selbsthalten
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 90608c4c-6706-507d-9aee-170025d968e6
+status: valid

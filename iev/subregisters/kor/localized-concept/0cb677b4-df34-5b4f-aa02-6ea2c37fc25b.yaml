@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 수직 영상 슬립
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0cb677b4-df34-5b4f-aa02-6ea2c37fc25b
+status: valid

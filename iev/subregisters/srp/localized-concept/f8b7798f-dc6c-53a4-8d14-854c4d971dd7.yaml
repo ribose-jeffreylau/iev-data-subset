@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1990-10-01T00:00:00+00:00'
+  examples: []
+  id: 421-01-20
+  language_code: srp
+  notes: []
+  review_date: '1990-10-01T00:00:00+00:00'
+  review_decision_date: '1990-10-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: суви трансформатор са заливеним намотајима
+    normative_status: preferred
+    type: expression
+dateAccepted: 1990-10-01
+id: f8b7798f-dc6c-53a4-8d14-854c4d971dd7
+status: valid

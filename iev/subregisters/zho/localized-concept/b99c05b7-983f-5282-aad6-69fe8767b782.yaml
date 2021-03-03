@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 交流主发电机
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b99c05b7-983f-5282-aad6-69fe8767b782
+status: valid

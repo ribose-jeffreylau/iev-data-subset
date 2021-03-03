@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 807-02-07
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vzdolžna zapisovalna gostota
+    normative_status: preferred
+    type: expression
+  - designation: vzdolžna snemalna gostota
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3d81cd3c-a351-552b-9ec7-c4b227b8890f
+status: valid

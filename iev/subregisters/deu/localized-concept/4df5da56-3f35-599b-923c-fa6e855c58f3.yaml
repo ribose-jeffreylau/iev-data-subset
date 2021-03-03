@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Vertikal-Graukeiltestbild
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 4df5da56-3f35-599b-923c-fa6e855c58f3
+status: valid

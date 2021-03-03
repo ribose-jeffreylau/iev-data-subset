@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2004-09-01T00:00:00+00:00'
+  examples: []
+  id: 841-24-13
+  language_code: ara
+  notes: []
+  review_date: '2004-09-01T00:00:00+00:00'
+  review_decision_date: '2004-09-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: سخان خزفي بالأشعة تحت الحمراء
+    normative_status: preferred
+    type: expression
+dateAccepted: 2004-09-01
+id: ea2e66c2-6070-5007-a9f4-6399bcd3c701
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: czas stanu zaworowego
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 34fd61d2-3551-5bb6-b3e9-3262806d7487
+status: valid

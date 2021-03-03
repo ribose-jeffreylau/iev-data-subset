@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-19-28
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Netzsteuerphase
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: eb169144-62f7-5fd9-97ae-93543ecd9bcd
+status: valid

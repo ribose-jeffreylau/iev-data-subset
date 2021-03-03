@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-03-12
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 傾斜効果
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 528d0e40-b8bf-5091-bb82-fbba09b00451
+status: valid

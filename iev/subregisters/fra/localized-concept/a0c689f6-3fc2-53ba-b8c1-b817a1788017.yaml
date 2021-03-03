@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: température ambiante spécifiée la plus élevée
+  examples: []
+  id: 426-20-17
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: température ambiante maximale
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: a0c689f6-3fc2-53ba-b8c1-b817a1788017
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: centrale idroelettrica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 14dea283-57a6-519f-8027-3775a65e860c
+status: valid

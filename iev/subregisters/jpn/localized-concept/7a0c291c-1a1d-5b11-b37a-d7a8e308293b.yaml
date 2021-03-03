@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-12-39
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ネゲーション時間
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7a0c291c-1a1d-5b11-b37a-d7a8e308293b
+status: valid

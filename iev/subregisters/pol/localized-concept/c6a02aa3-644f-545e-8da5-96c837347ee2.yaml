@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: błąd zbieżności
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c6a02aa3-644f-545e-8da5-96c837347ee2
+status: valid

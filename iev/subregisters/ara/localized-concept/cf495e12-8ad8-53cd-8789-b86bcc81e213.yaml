@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: كيان إفتراضى
+    normative_status: preferred
+    type: expression
+  - designation: هوية افتراضية
+    type: expression
+dateAccepted: 2018-11-17
+id: cf495e12-8ad8-53cd-8789-b86bcc81e213
+status: valid

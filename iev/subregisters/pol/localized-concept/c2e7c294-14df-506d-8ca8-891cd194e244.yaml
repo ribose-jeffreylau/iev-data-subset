@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-055
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: współrzędne chromatyczności widmowe
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: c2e7c294-14df-506d-8ca8-891cd194e244
+status: valid

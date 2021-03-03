@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2012-05-01T00:00:00+00:00'
+  examples: []
+  id: 461-09-05
+  language_code: nob
+  notes: []
+  review_date: '2012-05-01T00:00:00+00:00'
+  review_decision_date: '2012-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: målekabel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-05-01
+id: 9dfea60c-865c-5dc8-b214-a0ac6b4ff927
+status: valid

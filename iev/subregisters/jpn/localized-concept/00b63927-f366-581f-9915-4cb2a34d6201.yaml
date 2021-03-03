@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-10-21
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 側方向投影法
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 00b63927-f366-581f-9915-4cb2a34d6201
+status: valid

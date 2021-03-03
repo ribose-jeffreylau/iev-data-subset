@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-05-17
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kodord
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5c1ef2fe-2ce9-502d-ae0b-7ecb39780665
+status: valid

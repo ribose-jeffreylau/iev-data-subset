@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mantenimiento mecánico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1686ca50-d1bf-5482-ad25-48bd855be211
+status: valid

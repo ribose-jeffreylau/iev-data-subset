@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-05-16
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 電気焼灼器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 50f87d31-aca9-5117-966d-a30de7ae6e41
+status: valid

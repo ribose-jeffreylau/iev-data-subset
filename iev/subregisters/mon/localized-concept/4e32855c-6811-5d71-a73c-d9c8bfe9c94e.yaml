@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: холболтын гэрээ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4e32855c-6811-5d71-a73c-d9c8bfe9c94e
+status: valid

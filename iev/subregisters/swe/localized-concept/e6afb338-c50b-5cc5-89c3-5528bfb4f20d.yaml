@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-10-21
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sidoprojektion
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e6afb338-c50b-5cc5-89c3-5528bfb4f20d
+status: valid

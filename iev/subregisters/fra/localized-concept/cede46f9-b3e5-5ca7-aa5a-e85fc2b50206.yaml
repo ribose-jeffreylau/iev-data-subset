@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: capteur qui est séparé du corps du matériel et qui est raccordé à l'unité
+    de commande de détection de gaz ou à l'émetteur de détection de gaz
+  examples: []
+  id: 426-24-48
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: capteur à distance
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: détection de gaz
+dateAccepted: 2018-11-17
+id: cede46f9-b3e5-5ca7-aa5a-e85fc2b50206
+status: valid

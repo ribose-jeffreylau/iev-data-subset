@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: circuito di uscita
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6ea717c3-b543-5edb-805c-9927e28a4154
+status: valid

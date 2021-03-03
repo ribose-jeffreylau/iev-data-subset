@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wybieranie międzyliniowe
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c467b1b7-134f-5c48-85d3-2eb2a9117047
+status: valid

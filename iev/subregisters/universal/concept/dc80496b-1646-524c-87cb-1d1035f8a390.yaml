@@ -1,0 +1,24 @@
+data:
+  identifier: 702-05-17
+  localizedConcepts:
+    ara: 0b68860b-36e1-5936-ac54-7d9bd0752418
+    deu: 4b09906c-89d2-5a33-90a0-49abb3a6fa37
+    eng: 53c2dccb-064e-577e-a642-c44b336968c3
+    fra: f53fe682-8d47-51d4-abc7-5028a16c530b
+    ita: f857d67f-b0f6-587f-b8e3-8625ef338ab6
+    jpn: c62d4635-09cf-54d9-aa2a-d6196e532021
+    kor: e0cc5768-e1a3-5b30-b6dd-aff802168fdb
+    pol: 62baa437-525a-5bae-b61b-b16744191be3
+    por: 031f3c0f-d3fa-5688-a86b-f3a79178f41c
+    spa: 503e4b03-7d6e-55e9-81b0-d02ec13418f6
+    swe: 5c1ef2fe-2ce9-502d-ae0b-7ecb39780665
+    zho: 7ae4180f-65ea-5db6-881b-5fb458829d91
+dateAccepted: 2018-11-17
+id: dc80496b-1646-524c-87cb-1d1035f8a390
+related:
+- ref:
+    id: 702-05-17
+    source: IEV
+    version: 1992-03
+  type: supersedes
+status: valid

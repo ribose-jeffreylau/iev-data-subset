@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: riscaldamento a fascio di elettroni
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e4b7b97d-4d18-5a26-8496-ea4e7e89bfea
+status: valid

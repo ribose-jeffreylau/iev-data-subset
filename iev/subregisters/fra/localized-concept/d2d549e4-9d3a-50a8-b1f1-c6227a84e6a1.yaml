@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: surface engendrée par toutes les droites parallèles à une droite donnée
+    qui rencontrent une courbe donnée
+  examples: []
+  id: 102-04-38
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: surface cylindrique
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d2d549e4-9d3a-50a8-b1f1-c6227a84e6a1
+status: valid

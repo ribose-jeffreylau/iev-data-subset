@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-20
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sovrapposizione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0fc4aecf-4e12-55eb-8218-93806f983da2
+status: valid

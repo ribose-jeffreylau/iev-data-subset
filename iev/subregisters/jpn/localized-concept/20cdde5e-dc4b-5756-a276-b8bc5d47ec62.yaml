@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-41-14
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 整流子片
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 20cdde5e-dc4b-5756-a276-b8bc5d47ec62
+status: valid

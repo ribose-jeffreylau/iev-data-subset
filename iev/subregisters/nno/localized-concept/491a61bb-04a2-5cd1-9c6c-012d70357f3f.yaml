@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-02-01T00:00:00+00:00'
+  examples: []
+  id: 441-18-17
+  language_code: nno
+  notes: []
+  review_date: '2013-02-01T00:00:00+00:00'
+  review_decision_date: '2013-02-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: indikeringsinnretning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-02-01
+id: 491a61bb-04a2-5cd1-9c6c-012d70357f3f
+status: valid

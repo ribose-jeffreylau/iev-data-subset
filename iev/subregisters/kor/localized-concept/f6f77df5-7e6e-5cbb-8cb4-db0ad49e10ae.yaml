@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 접속 규정
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f6f77df5-7e6e-5cbb-8cb4-db0ad49e10ae
+status: valid

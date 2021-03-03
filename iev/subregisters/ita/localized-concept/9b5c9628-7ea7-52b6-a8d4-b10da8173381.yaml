@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: condensatore di accoppiamento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9b5c9628-7ea7-52b6-a8d4-b10da8173381
+status: valid

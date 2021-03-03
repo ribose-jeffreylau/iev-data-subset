@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relé de `shunt`
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 20a9a739-5ff6-5a70-abcc-fb21afc1ff06
+status: valid

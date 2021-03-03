@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 결합 커패시터
+    normative_status: preferred
+    type: expression
+  - designation: 결합 콘덴서
+    type: expression
+dateAccepted: 2018-11-17
+id: 51c92b03-6b4e-5b13-a7fb-231ff303d022
+status: valid

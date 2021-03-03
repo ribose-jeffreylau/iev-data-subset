@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 用户停电平均持续时间
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e3dc4bb0-5501-5d06-b5b4-d2a4c44242e1
+status: valid

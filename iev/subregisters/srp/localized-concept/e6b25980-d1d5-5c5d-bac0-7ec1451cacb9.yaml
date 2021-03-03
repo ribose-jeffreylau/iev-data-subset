@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 112-01-05
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: локална величина
+    normative_status: preferred
+    type: expression
+  - designation: интензивна величина
+    type: expression
+dateAccepted: 2018-11-17
+id: e6b25980-d1d5-5c5d-bac0-7ec1451cacb9
+status: valid

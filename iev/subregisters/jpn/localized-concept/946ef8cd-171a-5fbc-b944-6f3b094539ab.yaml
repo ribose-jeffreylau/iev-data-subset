@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: グレーレベル
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 946ef8cd-171a-5fbc-b944-6f3b094539ab
+status: valid

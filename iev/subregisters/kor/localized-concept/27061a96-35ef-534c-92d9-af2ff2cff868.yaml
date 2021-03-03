@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 수직 무채색 도표
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 27061a96-35ef-534c-92d9-af2ff2cff868
+status: valid

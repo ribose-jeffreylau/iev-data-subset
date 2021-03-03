@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 垂直灰度图
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 194f2264-1a62-57b7-93a8-4fa87f6c0e59
+status: valid

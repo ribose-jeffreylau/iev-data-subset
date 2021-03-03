@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-22-14
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: raffreddamento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6a6ee841-d55e-5828-a0c1-c65dc66df804
+status: valid

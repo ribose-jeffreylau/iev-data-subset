@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-13-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 트리
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 77b10571-dd1c-5393-a70f-e4e76fdf1dd7
+status: valid

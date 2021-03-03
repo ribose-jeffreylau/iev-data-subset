@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 指示装置
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 28f5b122-8515-5091-9a82-711f1da80bcc
+status: valid

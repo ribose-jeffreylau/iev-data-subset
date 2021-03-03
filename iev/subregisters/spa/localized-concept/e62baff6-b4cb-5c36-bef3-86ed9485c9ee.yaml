@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: duración media de una interrupción de cliente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e62baff6-b4cb-5c36-bef3-86ed9485c9ee
+status: valid

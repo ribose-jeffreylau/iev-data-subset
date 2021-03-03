@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-02-07
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: gęstość wzdłużna (ścieżek)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e39e3b67-9116-5165-9c4b-effb9ee60fe9
+status: valid

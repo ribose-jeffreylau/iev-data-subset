@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kod blokady
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f2e99fd3-765c-565f-9ad1-2e402123a918
+status: valid

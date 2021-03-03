@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-47-15
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: czas martwy (licznika)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c9d05ffa-dae1-5300-847a-f367ad3a2ec0
+status: valid

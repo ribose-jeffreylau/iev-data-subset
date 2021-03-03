@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 촉매 연소형 개질기
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e68e585e-9a74-59da-8da5-97e92e75010d
+status: valid

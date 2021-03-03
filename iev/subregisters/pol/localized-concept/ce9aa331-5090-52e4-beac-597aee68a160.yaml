@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-17-12
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: admitancja wzajemna
+    normative_status: preferred
+    type: expression
+  - designation: transadmitancja
+    type: expression
+dateAccepted: 2018-11-17
+id: ce9aa331-5090-52e4-beac-597aee68a160
+status: valid

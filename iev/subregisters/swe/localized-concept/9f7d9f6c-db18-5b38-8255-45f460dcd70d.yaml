@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: spänningsreglering ilängsled
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9f7d9f6c-db18-5b38-8255-45f460dcd70d
+status: valid

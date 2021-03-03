@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2008-06-01T00:00:00+00:00'
+  examples: []
+  id: 461-09-05
+  language_code: pol
+  notes: []
+  review_date: '2008-06-01T00:00:00+00:00'
+  review_decision_date: '2008-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: kabel pomiarowy
+    normative_status: preferred
+    type: expression
+  - designation: przewód pomiarowy
+    normative_status: preferred
+    type: expression
+dateAccepted: 2008-06-01
+id: 732108f5-6fe7-5a9b-8ba3-c21da33c15c5
+status: valid

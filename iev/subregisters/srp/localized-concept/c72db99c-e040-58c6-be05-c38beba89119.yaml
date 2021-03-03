@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: сабирница секционисана прекидачем
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c72db99c-e040-58c6-be05-c38beba89119
+status: valid

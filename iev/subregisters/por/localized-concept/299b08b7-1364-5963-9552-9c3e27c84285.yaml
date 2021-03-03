@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: desvio radial (num CD)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 299b08b7-1364-5963-9552-9c3e27c84285
+status: valid

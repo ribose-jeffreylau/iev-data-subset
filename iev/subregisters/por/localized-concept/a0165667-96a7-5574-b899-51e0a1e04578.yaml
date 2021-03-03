@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-12-01T00:00:00+00:00'
+  examples: []
+  id: 103-04-12
+  language_code: por
+  notes: []
+  review_date: '2009-12-01T00:00:00+00:00'
+  review_decision_date: '2009-12-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: transformada contínua em ôndulas
+    normative_status: preferred
+    type: expression
+  - designation: CWT (abreviatura inglesa)
+    type: expression
+dateAccepted: 2009-12-01
+id: a0165667-96a7-5574-b899-51e0a1e04578
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sensor remoto
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 2f5e2d48-0e66-5bfe-be5c-5e759989ec47
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-05-09
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: パケット交換
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 02210c55-2e70-5924-a51e-739f84d00ea2
+status: valid

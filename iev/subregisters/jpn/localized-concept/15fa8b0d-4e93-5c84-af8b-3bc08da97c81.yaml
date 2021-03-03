@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-39
+  language_code: jpn
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 熱伝達係数
+    normative_status: preferred
+    type: expression
+  - designation: 熱伝達
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 15fa8b0d-4e93-5c84-af8b-3bc08da97c81
+status: valid

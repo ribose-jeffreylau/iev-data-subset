@@ -1,0 +1,21 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-047
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: geometrischer Leitwert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: geometrischer Fluss
+    gender: m
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cc968abb-a9e4-5c49-a3b4-1a871b1a9ce1
+status: valid

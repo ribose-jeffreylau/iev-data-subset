@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-04-26
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: analisi della classe di servizio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6b98c0d0-d034-5312-a799-ae0f5f844e73
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  examples: []
+  id: 713-03-04
+  language_code: ara
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: خدمة متنقلة بالقمر الصناعي
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 61e8fcaa-223c-564d-b7aa-11bfa28b0e5a
+status: valid

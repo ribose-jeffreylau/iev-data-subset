@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: nno
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vasskraftstasjon
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f6b58210-e5df-50bf-90a1-3801d30f9438
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-20
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: nakładka (programowa)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a21fa2c6-a80d-51dd-868a-f7927e0edd5a
+status: valid

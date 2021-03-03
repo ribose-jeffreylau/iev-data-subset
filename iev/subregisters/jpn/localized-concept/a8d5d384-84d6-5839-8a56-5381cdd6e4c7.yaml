@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-15-01
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 開閉装置の極
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a8d5d384-84d6-5839-8a56-5381cdd6e4c7
+status: valid

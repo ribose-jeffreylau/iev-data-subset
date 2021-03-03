@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-08
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mescolamento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 89b7fe48-9ef7-52e3-a8ba-e2c883d1ca2f
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-143
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 블랭킷
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 947bfd00-4335-5899-b003-a4ac393de5c2
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-04
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 催化燃烧型重整器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ad5c3f1f-bedd-5b65-8239-5150d2fc329a
+status: valid

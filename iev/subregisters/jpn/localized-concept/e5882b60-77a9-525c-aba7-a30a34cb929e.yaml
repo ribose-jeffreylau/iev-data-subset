@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-04-39
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ゲーティング
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e5882b60-77a9-525c-aba7-a30a34cb929e
+status: valid

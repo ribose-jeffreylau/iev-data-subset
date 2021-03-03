@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-143
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: płaszcz
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 24f3d59d-6e5f-5d85-bf62-ad365bc04892
+status: valid

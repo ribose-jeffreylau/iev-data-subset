@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 617-04-03
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pogodba o priključitvi
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ff426a6b-f571-5689-b1ae-ee05e0b66a53
+status: valid

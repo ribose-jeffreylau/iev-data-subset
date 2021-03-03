@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-42
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 활동도
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d688e06b-5984-519a-888d-9d64ed42853a
+status: valid

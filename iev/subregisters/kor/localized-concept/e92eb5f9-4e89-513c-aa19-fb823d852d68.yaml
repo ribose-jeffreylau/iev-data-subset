@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-28-028
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 내장 소켓
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e92eb5f9-4e89-513c-aa19-fb823d852d68
+status: valid

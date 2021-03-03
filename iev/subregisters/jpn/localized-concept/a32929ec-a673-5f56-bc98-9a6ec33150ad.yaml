@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 521-04-06
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: バックワードダイオード
+    normative_status: preferred
+    type: expression
+  - designation: ユニトンネルダイオード
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a32929ec-a673-5f56-bc98-9a6ec33150ad
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: гарын хүчнээс хамааралтай үйлдэл
+    normative_status: preferred
+    type: expression
+    usage_info: механик таслах, залгах төхөөрөмжийн
+dateAccepted: 2018-11-17
+id: 4fb128d6-d1ba-5131-9981-324b0d601893
+status: valid

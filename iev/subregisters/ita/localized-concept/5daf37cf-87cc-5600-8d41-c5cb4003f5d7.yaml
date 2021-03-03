@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ritorno a zero
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5daf37cf-87cc-5600-8d41-c5cb4003f5d7
+status: valid

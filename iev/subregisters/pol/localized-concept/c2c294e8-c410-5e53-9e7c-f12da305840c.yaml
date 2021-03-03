@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 715-06-05
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: wiązka łączy wyboru ostatniego
+    normative_status: preferred
+    type: expression
+  - designation: wiązka  wyboru ostatniego
+    type: expression
+dateAccepted: 2018-11-17
+id: c2c294e8-c410-5e53-9e7c-f12da305840c
+status: valid

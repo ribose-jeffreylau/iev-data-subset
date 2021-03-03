@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-04-39
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: conexão controlada
+    normative_status: preferred
+    type: expression
+  - designation: portagem
+    type: expression
+dateAccepted: 2018-11-17
+id: 9ba7b8cb-bf28-5577-8dcd-a548ef976c9e
+status: valid

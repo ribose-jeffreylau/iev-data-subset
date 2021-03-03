@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 741-01-33
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 仮想エンティティ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9130657c-7259-5079-b2ea-8da7481986dd
+status: valid

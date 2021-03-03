@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: максимальная температура окружающей среды
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e37f6809-a88f-5bbd-a8db-e582698f8b0f
+status: valid

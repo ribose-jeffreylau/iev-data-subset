@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-04-39
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: معامل الانتقال الحرارى
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 2e139827-3ef2-5749-8b20-593370c3fa52
+status: valid

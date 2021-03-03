@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-07-61
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: assieme passaparatia per sistemi elettrici
+    normative_status: preferred
+    type: expression
+    usage_info: di un reattore nucleare
+dateAccepted: 2018-11-17
+id: 879d33f6-310f-54dd-acbe-6a3848c8cce1
+status: valid

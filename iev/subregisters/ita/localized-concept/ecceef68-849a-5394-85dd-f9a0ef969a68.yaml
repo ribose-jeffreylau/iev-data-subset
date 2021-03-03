@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tensione transitoria di ritorno presunta
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ecceef68-849a-5394-85dd-f9a0ef969a68
+status: valid

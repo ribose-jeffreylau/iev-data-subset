@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-14-19
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 电刷
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a807a146-f9c0-593f-a9de-50094dce6cb8
+status: valid

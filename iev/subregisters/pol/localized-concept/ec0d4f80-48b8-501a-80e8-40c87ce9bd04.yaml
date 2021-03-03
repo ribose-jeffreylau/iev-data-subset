@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: integralność sekwencji elementów cyfrowych
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ec0d4f80-48b8-501a-80e8-40c87ce9bd04
+status: valid

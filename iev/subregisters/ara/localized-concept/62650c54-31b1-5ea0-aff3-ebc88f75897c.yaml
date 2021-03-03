@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-22
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: مُرَحِّل على التوازى
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 62650c54-31b1-5ea0-aff3-ebc88f75897c
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: magneettisoptinen ilmiö
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a087ce0f-a6cb-537f-9a88-4e6171f1afc4
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-05-05
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: presa sottrattiva
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e4e7b424-1ced-5600-9abd-ef2da11dd9d7
+status: valid

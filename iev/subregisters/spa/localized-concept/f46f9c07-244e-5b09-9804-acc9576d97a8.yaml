@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-03-12
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: efecto de talón
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f46f9c07-244e-5b09-9804-acc9576d97a8
+status: valid

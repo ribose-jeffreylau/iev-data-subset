@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  definition: the overlaying of a short message on a broadcast programme
+  examples: []
+  id: 723-02-20
+  language_code: eng
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: superimposition
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 6de6b2d1-1fd0-5586-be1c-77e23c40d76a
+status: valid

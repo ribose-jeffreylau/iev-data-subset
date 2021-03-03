@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-12-39
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Reaktionszeit
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: in der Eisenbahntechnik
+dateAccepted: 2018-11-17
+id: 0b4d2df9-0715-5137-b927-13ff1248326f
+status: valid

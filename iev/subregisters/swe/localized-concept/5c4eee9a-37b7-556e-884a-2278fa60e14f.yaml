@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-04-39
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: grindkoppling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5c4eee9a-37b7-556e-884a-2278fa60e14f
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 212-18-31
+  language_code: zho
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 游离气体
+    normative_status: preferred
+    type: expression
+dateAccepted: 2010-06-01
+id: f041b6b0-fda8-5c88-8f69-f52f8028941c
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: bildhållningsfel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f7892b4e-a333-5111-ab41-983307726890
+status: valid

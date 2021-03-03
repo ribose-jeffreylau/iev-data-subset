@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fecho
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9160ea8b-2a8f-586c-84e4-ade77fc07406
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-15-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: modelo de circuito elétrico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 950922f3-367f-52b2-9621-5cada5d56a70
+status: valid

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-04-01T00:00:00+00:00'
+  definition: an answer signal which inhibits charging
+  examples: []
+  id: 714-07-09
+  language_code: eng
+  notes: []
+  review_date: '1992-04-01T00:00:00+00:00'
+  review_decision_date: '1992-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: answer signal (with no charge)
+    normative_status: preferred
+    type: expression
+dateAccepted: 1992-04-01
+id: cee466ba-23a0-5150-862a-153933d3c87a
+status: valid

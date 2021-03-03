@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vattenkraftstation
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d003d39-a2f0-5b0c-8f6b-789ecfecc7a9
+status: valid

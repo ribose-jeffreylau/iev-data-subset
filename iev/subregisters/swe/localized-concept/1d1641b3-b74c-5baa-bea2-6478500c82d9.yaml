@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kopplingskondensator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1d1641b3-b74c-5baa-bea2-6478500c82d9
+status: valid

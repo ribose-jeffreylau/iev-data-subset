@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-07
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: هدرجة خارجية
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 31f6da0d-2698-51cf-853b-cb0fc408f07a
+status: valid

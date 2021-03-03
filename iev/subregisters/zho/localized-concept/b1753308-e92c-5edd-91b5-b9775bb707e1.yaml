@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-13-13
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 树
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b1753308-e92c-5edd-91b5-b9775bb707e1
+status: valid

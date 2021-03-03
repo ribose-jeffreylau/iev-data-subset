@@ -1,0 +1,22 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1992-03-01T00:00:00+00:00'
+  definition: variation non désirée, lente et progressive, d'une fréquence au cours
+    du temps
+  examples: []
+  id: 702-01-13
+  language_code: fra
+  notes: []
+  review_date: '1992-03-01T00:00:00+00:00'
+  review_decision_date: '1992-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: dérive de fréquence
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1992-03-01
+id: ee0cd445-f382-52d1-80a4-d6a342b7ba7d
+status: valid

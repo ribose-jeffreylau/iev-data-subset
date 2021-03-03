@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-21
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 火焰温度分析仪
+    normative_status: preferred
+    type: expression
+  - designation: FTA
+    type: expression
+dateAccepted: 2018-11-17
+id: fd8a2f74-05e8-50d7-8509-00e49f796d85
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: torrisolerad transformator med inkapslade lindningar
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: af3885fd-2090-513e-817b-cd473a225f4e
+status: valid

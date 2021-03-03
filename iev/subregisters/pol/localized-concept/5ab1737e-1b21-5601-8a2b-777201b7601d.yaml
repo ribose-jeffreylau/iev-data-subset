@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: zdolność hamowania radiacyjna masowa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ab1737e-1b21-5601-8a2b-777201b7601d
+status: valid

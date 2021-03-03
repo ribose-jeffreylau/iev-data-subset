@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-32
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 불균일 양자화
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c7d0c624-09ac-5c5a-88ea-c5d4456caa22
+status: valid

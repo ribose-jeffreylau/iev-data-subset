@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-05-16
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: elettrocauterio
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d159aa3a-6b9f-51c1-b460-f7532d54d05b
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-082
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Linie gleicher Temperatur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: in einer Farbtafel
+dateAccepted: 2018-11-17
+id: 26604b8b-b070-52a1-9b2b-b2bd520a334e
+status: valid

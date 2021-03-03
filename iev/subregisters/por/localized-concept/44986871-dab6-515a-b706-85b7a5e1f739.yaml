@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-56-02
+  language_code: por
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: unidade funcional
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 44986871-dab6-515a-b706-85b7a5e1f739
+status: valid

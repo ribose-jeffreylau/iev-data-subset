@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2007-08-01T00:00:00+00:00'
+  examples: []
+  id: 102-04-38
+  language_code: zho
+  notes: []
+  review_date: '2007-08-01T00:00:00+00:00'
+  review_decision_date: '2007-08-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 柱面
+    normative_status: preferred
+    type: expression
+dateAccepted: 2007-08-01
+id: c0a8e977-3473-5319-ac06-c07720e7f77b
+status: valid

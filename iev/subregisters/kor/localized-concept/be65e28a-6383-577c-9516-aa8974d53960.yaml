@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 등록 오류
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: be65e28a-6383-577c-9516-aa8974d53960
+status: valid

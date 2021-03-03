@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-05-54
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 차단 접점
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b987cb0b-2091-58d1-ae60-aadededaff6b
+status: valid

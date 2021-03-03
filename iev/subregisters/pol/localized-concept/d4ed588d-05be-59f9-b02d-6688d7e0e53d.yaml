@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tablica pionowej skali szarości
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d4ed588d-05be-59f9-b02d-6688d7e0e53d
+status: valid

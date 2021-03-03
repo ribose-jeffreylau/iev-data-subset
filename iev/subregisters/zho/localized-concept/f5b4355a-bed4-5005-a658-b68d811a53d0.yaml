@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 395-02-22
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 中子扩散
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f5b4355a-bed4-5005-a658-b68d811a53d0
+status: valid

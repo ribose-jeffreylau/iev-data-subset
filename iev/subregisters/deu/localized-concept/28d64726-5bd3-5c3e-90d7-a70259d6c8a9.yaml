@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-20-17
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maximale Umgebungstemperatur
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 28d64726-5bd3-5c3e-90d7-a70259d6c8a9
+status: valid

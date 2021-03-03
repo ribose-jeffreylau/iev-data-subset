@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-07
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 外部改質
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 53c6f2ef-26d1-516f-a72e-d090ed0bfe0f
+status: valid

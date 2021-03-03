@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sinal de resposta (sem taxação)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: cb0dbb03-c899-59e5-9fb9-c35fb6ec454d
+status: valid

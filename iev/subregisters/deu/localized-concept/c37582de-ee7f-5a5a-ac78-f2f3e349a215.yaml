@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 891-01-15
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Vorhofflimmern
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: c37582de-ee7f-5a5a-ac78-f2f3e349a215
+status: valid

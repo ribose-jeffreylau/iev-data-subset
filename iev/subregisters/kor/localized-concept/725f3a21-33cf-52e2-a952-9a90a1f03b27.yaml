@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-78
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 에너지 의존성
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 725f3a21-33cf-52e2-a952-9a90a1f03b27
+status: valid

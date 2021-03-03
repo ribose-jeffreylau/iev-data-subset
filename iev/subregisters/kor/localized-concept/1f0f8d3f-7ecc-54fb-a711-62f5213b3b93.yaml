@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 521-04-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 단일 터널 다이오드
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f0f8d3f-7ecc-54fb-a711-62f5213b3b93
+status: valid

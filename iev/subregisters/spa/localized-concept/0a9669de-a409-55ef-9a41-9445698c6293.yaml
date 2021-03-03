@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-15-14
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transferencia de calor a través del gas residual
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0a9669de-a409-55ef-9a41-9445698c6293
+status: valid

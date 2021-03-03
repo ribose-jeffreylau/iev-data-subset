@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-15-76
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 長期出力レベル変動
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9e44f5d0-511d-57b0-aa86-3c2c93a5cbbb
+status: valid

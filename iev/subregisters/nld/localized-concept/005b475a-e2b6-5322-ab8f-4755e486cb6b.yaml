@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-03-39
+  language_code: nld
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tensor van de tweede orde
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 005b475a-e2b6-5322-ab8f-4755e486cb6b
+status: valid

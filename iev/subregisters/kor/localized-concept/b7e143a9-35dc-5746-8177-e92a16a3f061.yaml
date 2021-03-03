@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 주파수 표류
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7e143a9-35dc-5746-8177-e92a16a3f061
+status: valid

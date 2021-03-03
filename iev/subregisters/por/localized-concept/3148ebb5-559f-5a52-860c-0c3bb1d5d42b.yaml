@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-07-07
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: potência máxima de um tubo de raios X
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3148ebb5-559f-5a52-860c-0c3bb1d5d42b
+status: valid

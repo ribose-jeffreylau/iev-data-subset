@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 水力発電所
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 49c20623-2ac0-583b-8108-4b045f9facfa
+status: valid

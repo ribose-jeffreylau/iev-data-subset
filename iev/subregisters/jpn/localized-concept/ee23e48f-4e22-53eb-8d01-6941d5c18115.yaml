@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-12-51
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 質量放射阻止能
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ee23e48f-4e22-53eb-8d01-6941d5c18115
+status: valid

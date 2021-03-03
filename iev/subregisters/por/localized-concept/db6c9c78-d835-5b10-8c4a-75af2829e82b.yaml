@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: modulação multi-estado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: db6c9c78-d835-5b10-8c4a-75af2829e82b
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-19-28
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: faza sterowania siecią
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 327e49b5-860d-535e-ac6e-d9897cefff22
+status: valid

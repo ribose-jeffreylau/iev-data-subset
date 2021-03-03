@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1997-03-01T00:00:00+00:00'
+  examples: []
+  id: 723-10-90
+  language_code: ara
+  notes: []
+  review_date: '1997-03-01T00:00:00+00:00'
+  review_decision_date: '1997-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: إزالة المزج  ( في الإرسال الرقمي )
+    normative_status: preferred
+    type: expression
+dateAccepted: 1997-03-01
+id: 23ba9334-a104-5e55-9403-8f7d4288088b
+status: valid

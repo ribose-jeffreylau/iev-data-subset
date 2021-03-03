@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-22
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: geschlossene Stellung (eines mechanischen Schaltgeräts)
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: dad096ea-6704-5368-9f24-c6be0f0b850e
+status: valid

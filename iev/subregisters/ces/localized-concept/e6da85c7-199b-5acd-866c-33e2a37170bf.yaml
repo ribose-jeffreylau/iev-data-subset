@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: ces
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: maskování vad
+    normative_status: preferred
+    type: expression
+    usage_info: v softwaru
+  - designation: maskování softwarových vad
+    type: expression
+dateAccepted: 2018-11-17
+id: e6da85c7-199b-5acd-866c-33e2a37170bf
+status: valid

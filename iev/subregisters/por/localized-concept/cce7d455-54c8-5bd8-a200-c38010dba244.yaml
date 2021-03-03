@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-05-54
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: contacto de repouso
+    normative_status: preferred
+    type: expression
+  - designation: contacto de abertura
+    type: expression
+dateAccepted: 2018-11-17
+id: cce7d455-54c8-5bd8-a200-c38010dba244
+status: valid

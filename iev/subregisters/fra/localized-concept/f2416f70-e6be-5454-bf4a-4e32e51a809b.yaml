@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  definition: ensemble fini et ordonné de {{données, IEV:171-01-02}} de même nature,
+    traitées séquentiellement
+  examples: []
+  id: 171-02-32
+  language_code: fra
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: liste
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f2416f70-e6be-5454-bf4a-4e32e51a809b
+status: valid

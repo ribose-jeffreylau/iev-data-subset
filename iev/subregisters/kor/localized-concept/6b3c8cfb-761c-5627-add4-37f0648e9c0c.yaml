@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 212-18-31
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자유 기체
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6b3c8cfb-761c-5627-add4-37f0648e9c0c
+status: valid

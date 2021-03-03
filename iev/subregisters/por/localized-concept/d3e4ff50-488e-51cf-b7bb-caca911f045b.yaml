@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-10-78
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: componentes de falseamento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d3e4ff50-488e-51cf-b7bb-caca911f045b
+status: valid

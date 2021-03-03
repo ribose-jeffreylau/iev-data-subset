@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 기동 시간
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b7832dc0-7130-5501-a85f-7533e8c4378a
+status: valid

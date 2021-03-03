@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: velocidade de desfilamento do sulco
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dd07a1ed-db7e-5e7b-b229-d96e076f8496
+status: valid

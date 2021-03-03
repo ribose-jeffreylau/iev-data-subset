@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 红外陶瓷加热器
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 17410da5-8f33-50b2-8062-585b19a370c6
+status: valid

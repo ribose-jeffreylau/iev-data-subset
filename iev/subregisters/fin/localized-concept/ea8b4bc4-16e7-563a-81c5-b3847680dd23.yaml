@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: valueristeinen kuivamuuntaja
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ea8b4bc4-16e7-563a-81c5-b3847680dd23
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 461-09-05
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: хэмжүүрийн кабель
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e3af2b23-35a4-5faf-9a0f-7118575301a9
+status: valid

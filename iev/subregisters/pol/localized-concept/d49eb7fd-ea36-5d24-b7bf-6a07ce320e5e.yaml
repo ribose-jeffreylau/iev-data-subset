@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 603-04-25
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: regulacja napięcia podłużna
+    normative_status: preferred
+    type: expression
+  - designation: regulacja podłużna
+    type: expression
+dateAccepted: 2018-11-17
+id: d49eb7fd-ea36-5d24-b7bf-6a07ce320e5e
+status: valid

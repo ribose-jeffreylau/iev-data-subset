@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 131-13-13
+  language_code: nno
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tre
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c3bd3b9e-d0ec-536e-b5fe-d201ef8c7282
+status: valid

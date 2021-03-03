@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: avisador acústico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5ad86d74-2fe1-502e-afe7-6dc167e1f85f
+status: valid

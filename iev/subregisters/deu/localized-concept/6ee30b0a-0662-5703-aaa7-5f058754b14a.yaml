@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Leuchtdichte
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6ee30b0a-0662-5703-aaa7-5f058754b14a
+status: valid

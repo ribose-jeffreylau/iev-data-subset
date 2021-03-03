@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: коефицијент потискивања фреквенције струјом
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 2023cc35-e4d9-5aaf-9c7b-6c19d811db94
+status: valid

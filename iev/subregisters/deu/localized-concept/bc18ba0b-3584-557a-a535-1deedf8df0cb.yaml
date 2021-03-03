@@ -1,0 +1,23 @@
+data:
+  authoritativeSource:
+  - {}
+  classification: Preferred
+  examples: []
+  id: 723-05-10
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Zwischenzeilenabtastung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: Abtastung mit Zeilensprung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: bc18ba0b-3584-557a-a535-1deedf8df0cb
+status: valid

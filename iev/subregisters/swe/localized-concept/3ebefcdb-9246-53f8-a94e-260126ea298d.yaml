@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tonringare
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3ebefcdb-9246-53f8-a94e-260126ea298d
+status: valid

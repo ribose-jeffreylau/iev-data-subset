@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-33-08
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: motor de inducción de rotor bobinado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e08ac213-291a-5587-9bdc-427976a2ad61
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: suhi zaliti transformator
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 383550b2-3627-54dd-9ed6-cd8cca4184b3
+status: valid

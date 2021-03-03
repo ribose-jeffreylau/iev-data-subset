@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-13-32
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 溝の線速度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 55b44570-591b-5341-bdb9-7bba5acd0776
+status: valid

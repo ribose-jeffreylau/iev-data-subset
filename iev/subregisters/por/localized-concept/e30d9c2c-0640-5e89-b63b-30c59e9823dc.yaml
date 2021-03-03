@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-02-13
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: erro de convergência
+    normative_status: preferred
+    type: expression
+  - designation: erro de registo
+    type: expression
+dateAccepted: 2018-11-17
+id: e30d9c2c-0640-5e89-b63b-30c59e9823dc
+status: valid

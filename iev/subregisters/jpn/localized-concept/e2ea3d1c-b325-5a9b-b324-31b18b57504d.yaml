@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: CIE1976L＊a＊b＊色空間
+    normative_status: preferred
+    type: expression
+  - designation: CIELAB 色空間
+    type: expression
+dateAccepted: 2018-11-17
+id: e2ea3d1c-b325-5a9b-b324-31b18b57504d
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: inträngningsdjup
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7eb33284-5239-5515-8a88-77344d5466b0
+status: valid

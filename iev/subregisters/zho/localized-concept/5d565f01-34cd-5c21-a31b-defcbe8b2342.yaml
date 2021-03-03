@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-047
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 几何广度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d565f01-34cd-5c21-a31b-defcbe8b2342
+status: valid

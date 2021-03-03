@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 731-01-43
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자기 광학효과
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 997554d4-1e98-5a12-a3c2-b6957854c15a
+status: valid

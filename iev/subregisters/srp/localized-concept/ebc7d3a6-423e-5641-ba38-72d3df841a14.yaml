@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 901-03-06
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: тело за стандарде
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ebc7d3a6-423e-5641-ba38-72d3df841a14
+status: valid

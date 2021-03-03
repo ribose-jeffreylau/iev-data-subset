@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-08
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mixning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8990ec55-79ed-5c75-9fa7-cad6816a516c
+status: valid

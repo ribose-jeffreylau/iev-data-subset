@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-17-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 파괴 인성
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4611ae45-7e6e-57de-97fb-26d89fd31071
+status: valid

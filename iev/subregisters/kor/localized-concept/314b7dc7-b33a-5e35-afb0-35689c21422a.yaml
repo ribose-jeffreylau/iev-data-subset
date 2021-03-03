@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 래칭
+    normative_status: preferred
+    type: expression
+  - designation: 유지
+    type: expression
+  - designation: 지속
+    type: expression
+dateAccepted: 2018-11-17
+id: 314b7dc7-b33a-5e35-afb0-35689c21422a
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 692-08-05
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: średni czas przerw w zasilaniu odbiorcy
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: ecc79446-c24a-5dab-bea2-0379097f65de
+status: valid

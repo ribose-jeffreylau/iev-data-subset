@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2000-07-01T00:00:00+00:00'
+  examples: []
+  id: 441-18-17
+  language_code: ara
+  notes: []
+  review_date: '2000-07-01T00:00:00+00:00'
+  review_decision_date: '2000-07-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: جهاز بيان
+    normative_status: preferred
+    type: expression
+dateAccepted: 2000-07-01
+id: 47e6e5b7-306a-5220-9c5e-d2ad33a2b38a
+status: valid

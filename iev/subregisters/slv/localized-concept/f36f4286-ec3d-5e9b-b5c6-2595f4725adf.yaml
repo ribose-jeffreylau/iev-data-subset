@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-12
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: visokonapetostni kondenzator (kapacitivnega delilnika)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: f36f4286-ec3d-5e9b-b5c6-2595f4725adf
+status: valid

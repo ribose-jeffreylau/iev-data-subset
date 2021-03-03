@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-05-05
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Minus-Anzapfung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 1b6d78c5-cbcd-5fbf-a7e1-0c5623159d29
+status: valid

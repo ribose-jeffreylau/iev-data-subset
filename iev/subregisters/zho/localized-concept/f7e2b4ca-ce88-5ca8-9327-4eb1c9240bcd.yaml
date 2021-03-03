@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 分体式传感器
+    normative_status: preferred
+    type: expression
+    usage_info: 气体探测
+dateAccepted: 2018-11-17
+id: f7e2b4ca-ce88-5ca8-9327-4eb1c9240bcd
+status: valid

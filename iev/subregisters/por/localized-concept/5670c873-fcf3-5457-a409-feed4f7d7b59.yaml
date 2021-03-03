@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 704-17-21
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: integridade da sequência de dígitos
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5670c873-fcf3-5457-a409-feed4f7d7b59
+status: valid

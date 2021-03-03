@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-04-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 기체확산층
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d132db33-51e6-541d-b38a-169d76aed14d
+status: valid

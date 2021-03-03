@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-01-19
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: pituus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6da1d65e-da09-5c54-88bd-24421bee9e51
+status: valid

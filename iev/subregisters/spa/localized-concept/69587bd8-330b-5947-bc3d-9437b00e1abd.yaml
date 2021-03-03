@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-02-96
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: señal de movimiento autorizado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 69587bd8-330b-5947-bc3d-9437b00e1abd
+status: valid

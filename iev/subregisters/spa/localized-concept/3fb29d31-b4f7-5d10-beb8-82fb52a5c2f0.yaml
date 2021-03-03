@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-04-05
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: capa difusora de gas
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3fb29d31-b4f7-5d10-beb8-82fb52a5c2f0
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-31-051
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 跑道可视范围
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9a5ce40f-6b15-5174-a0b5-76705f9a7e04
+status: valid

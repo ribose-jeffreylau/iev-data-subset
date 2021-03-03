@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-03-04
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: siirtyvä satelliittiliikenne
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d14604b5-5057-5f30-a00b-7a4c36929d02
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-08
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: deslizamiento vertical de imagen
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e5716f00-51d7-5c3f-a7d4-1a572892d0cc
+status: valid

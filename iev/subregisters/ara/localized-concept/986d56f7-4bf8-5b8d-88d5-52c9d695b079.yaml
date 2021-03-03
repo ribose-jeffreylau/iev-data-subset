@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2011-04-01T00:00:00+00:00'
+  examples: []
+  id: 113-01-19
+  language_code: ara
+  notes: []
+  review_date: '2011-04-01T00:00:00+00:00'
+  review_decision_date: '2011-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: طول
+    normative_status: preferred
+    type: expression
+dateAccepted: 2011-04-01
+id: 986d56f7-4bf8-5b8d-88d5-52c9d695b079
+status: valid

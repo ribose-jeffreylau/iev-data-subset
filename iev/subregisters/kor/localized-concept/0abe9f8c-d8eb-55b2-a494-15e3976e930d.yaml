@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-30-02
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 전자빔 가열
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 0abe9f8c-d8eb-55b2-a494-15e3976e930d
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 192-10-22
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: تخفى العطل
+    normative_status: preferred
+    type: expression
+    usage_info: فى مجال البرمجيات
+dateAccepted: 2018-11-17
+id: de5492af-1a61-53c1-8e65-12785a37572d
+status: valid

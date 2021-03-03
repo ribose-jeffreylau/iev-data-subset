@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 112-01-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 내포량
+    normative_status: preferred
+    type: expression
+  - designation: 지역량
+    type: expression
+dateAccepted: 2018-11-17
+id: 530a7d84-8d59-52e0-bc72-c6b984d7c65f
+status: valid

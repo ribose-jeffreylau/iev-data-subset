@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Eyringscher Absorptionsgrad
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: fc19dc7c-21a6-5dc1-abb6-a0ea74cba934
+status: valid

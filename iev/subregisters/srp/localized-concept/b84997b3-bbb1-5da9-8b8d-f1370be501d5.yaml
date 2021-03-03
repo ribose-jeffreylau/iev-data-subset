@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 212-18-31
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: слободни гасови
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b84997b3-bbb1-5da9-8b8d-f1370be501d5
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 807-03-13
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: desviación radial (en un sistema CD)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6215436a-0eab-54df-9831-c8598bfe78ce
+status: valid

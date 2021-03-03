@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 遠隔センサ
+    normative_status: preferred
+    type: expression
+    usage_info: ガス検知
+dateAccepted: 2018-11-17
+id: 05aa1dd5-d35e-591b-ac62-ab6939becaf1
+status: valid

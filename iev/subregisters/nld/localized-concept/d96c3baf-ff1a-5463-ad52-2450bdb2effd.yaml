@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-01-04
+  language_code: nld
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: deelverzameling
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: d96c3baf-ff1a-5463-ad52-2450bdb2effd
+status: valid

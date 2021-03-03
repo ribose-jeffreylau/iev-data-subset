@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-047
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: estensione geometrica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d8a32b5a-162c-5932-ac3c-f5bbfe158dcc
+status: valid

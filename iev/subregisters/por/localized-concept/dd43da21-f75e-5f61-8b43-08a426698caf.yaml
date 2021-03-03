@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-78
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: dependência de energia
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dd43da21-f75e-5f61-8b43-08a426698caf
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1998-04-01T00:00:00+00:00'
+  examples: []
+  id: 807-02-07
+  language_code: ara
+  notes: []
+  review_date: '1998-04-01T00:00:00+00:00'
+  review_decision_date: '1998-04-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: كثافة تسجيل خطية
+    normative_status: preferred
+    type: expression
+dateAccepted: 1998-04-01
+id: 6f7916d3-b7f3-5941-880f-c7a6c9bc0487
+status: valid

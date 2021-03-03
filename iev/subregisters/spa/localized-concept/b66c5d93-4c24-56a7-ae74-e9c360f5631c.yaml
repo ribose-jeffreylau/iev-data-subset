@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-19-28
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: fase de control de red
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b66c5d93-4c24-56a7-ae74-e9c360f5631c
+status: valid

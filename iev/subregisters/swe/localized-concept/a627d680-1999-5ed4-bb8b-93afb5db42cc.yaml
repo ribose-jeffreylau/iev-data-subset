@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: frekvensdrift
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a627d680-1999-5ed4-bb8b-93afb5db42cc
+status: valid

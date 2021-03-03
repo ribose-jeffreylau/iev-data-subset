@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-24-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: riscaldatore a infrarossi in ceramica
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 98fee723-5c84-5c28-9bd7-a12305d97432
+status: valid

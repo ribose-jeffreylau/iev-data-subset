@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: الإنارة
+    normative_status: preferred
+    type: expression
+  - designation: شدة الإضاءة
+    type: expression
+dateAccepted: 2018-11-17
+id: 6f614f29-83c7-51fa-a3ec-01b49e3c4c5d
+status: valid

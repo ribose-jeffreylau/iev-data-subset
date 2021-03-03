@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-36-05
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: série
+    normative_status: preferred
+    type: expression
+  - designation: com excitação em série
+    type: expression
+dateAccepted: 2018-11-17
+id: 72886ece-352a-5490-9856-5c747aa9f9b2
+status: valid

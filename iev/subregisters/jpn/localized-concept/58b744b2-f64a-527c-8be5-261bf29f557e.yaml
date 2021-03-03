@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-02-20
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: スーパインポーズ
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 58b744b2-f64a-527c-8be5-261bf29f557e
+status: valid

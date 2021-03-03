@@ -1,0 +1,27 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-04-05
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: warstwa przepuszczająca gazy
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+  - designation: porowata warstwa transportowa
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: warstwa dyfuzyjna dla gazu
+    gender: f
+    plurality: singular
+    type: expression
+  - designation: GDL
+    type: expression
+dateAccepted: 2018-11-17
+id: f891115d-beab-5901-ba45-c0de8fdbb4d9
+status: valid

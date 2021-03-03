@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-03-04
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 이동위성서비스
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 18518a47-143b-5a1f-9e28-c6ab52d9778b
+status: valid

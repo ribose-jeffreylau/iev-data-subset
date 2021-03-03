@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-15-01
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Röhrenrauschen
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 9d0f1cff-045d-5984-800e-7145c4f4f89d
+status: valid

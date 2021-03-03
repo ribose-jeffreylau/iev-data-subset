@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-36-05
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 연속물
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c377c6e9-648c-584f-b86c-8664c54e6b7b
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-05-17
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 码字
+    normative_status: preferred
+    type: expression
+  - designation: 码组合
+    type: expression
+dateAccepted: 2018-11-17
+id: 7ae4180f-65ea-5db6-881b-5fb458829d91
+status: valid

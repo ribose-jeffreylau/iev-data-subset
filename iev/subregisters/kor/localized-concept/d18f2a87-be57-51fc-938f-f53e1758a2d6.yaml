@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 투입
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d18f2a87-be57-51fc-938f-f53e1758a2d6
+status: valid

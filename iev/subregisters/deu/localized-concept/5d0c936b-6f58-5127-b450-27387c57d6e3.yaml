@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: externer Sensor
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: Gaserkennung
+dateAccepted: 2018-11-17
+id: 5d0c936b-6f58-5127-b450-27387c57d6e3
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2009-03-01T00:00:00+00:00'
+  examples: []
+  id: 617-04-03
+  language_code: pol
+  notes: []
+  review_date: '2009-03-01T00:00:00+00:00'
+  review_decision_date: '2009-03-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: umowa o przyłączenie do sieci
+    normative_status: preferred
+    type: expression
+dateAccepted: 2009-03-01
+id: ef7c26f2-fff6-5354-8f20-02db7a2e6c77
+status: valid

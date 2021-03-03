@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '1974-01-01T00:00:00+00:00'
+  examples: []
+  id: 531-17-12
+  language_code: deu
+  notes: []
+  review_date: '1974-01-01T00:00:00+00:00'
+  review_decision_date: '1974-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: Übertragungsadmittanz
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 1974-01-01
+id: 5652876e-21d5-5cd4-84e1-61f718a50d65
+status: valid

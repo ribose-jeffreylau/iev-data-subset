@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-17
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: mekanisk låsning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: fa02dc04-13a3-57a9-8b26-567d09af74a9
+status: valid

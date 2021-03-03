@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-29-02
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 功率穿透深度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: a052e5df-b4ec-5661-b094-247650f9ba09
+status: valid

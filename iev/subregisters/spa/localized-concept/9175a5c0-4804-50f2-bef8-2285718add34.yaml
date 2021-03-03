@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-05-09
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: conmutación de paquetes
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9175a5c0-4804-50f2-bef8-2285718add34
+status: valid

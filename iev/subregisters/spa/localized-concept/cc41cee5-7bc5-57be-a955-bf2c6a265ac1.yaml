@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tiempo de arranque
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: cc41cee5-7bc5-57be-a955-bf2c6a265ac1
+status: valid

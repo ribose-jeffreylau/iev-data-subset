@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-19
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tablica z wzorami "V"
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b8ff8934-a63e-52ac-92b0-d37fa57e6d8e
+status: valid

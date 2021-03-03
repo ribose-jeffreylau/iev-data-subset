@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: rotatore di polarizzazione non reciproca
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e828eb0a-1d25-5dc1-9405-ca621841d5ed
+status: valid

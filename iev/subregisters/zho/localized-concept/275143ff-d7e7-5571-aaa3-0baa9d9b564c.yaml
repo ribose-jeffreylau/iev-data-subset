@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-17-07
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 断裂韧度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 275143ff-d7e7-5571-aaa3-0baa9d9b564c
+status: valid

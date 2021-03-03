@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2012-05-01T00:00:00+00:00'
+  examples: []
+  id: 448-14-04
+  language_code: nob
+  notes: []
+  review_date: '2012-05-01T00:00:00+00:00'
+  review_decision_date: '2012-05-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: distansevern med omkobling
+    normative_status: preferred
+    type: expression
+dateAccepted: 2012-05-01
+id: 727fcea1-dab2-5420-b6c3-c472285d9e01
+status: valid

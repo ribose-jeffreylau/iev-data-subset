@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 113-04-39
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: lämmönsiirtymiskerroin
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3f16a396-71ca-5fe4-8957-d653573d0329
+status: valid

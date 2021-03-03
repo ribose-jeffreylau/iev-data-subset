@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-05-05
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: minusreglerlage
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 795cd9ea-3cd4-5741-85cd-d9e64aa1d884
+status: valid

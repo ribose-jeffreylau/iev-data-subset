@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 351-42-39
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 추론 엔진
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 57797532-d1d2-57c5-825f-1e1b8d90a357
+status: valid

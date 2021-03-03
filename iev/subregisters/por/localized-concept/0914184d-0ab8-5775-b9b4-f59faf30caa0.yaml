@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 901-03-06
+  language_code: por
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: organismo de normalização
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: 0914184d-0ab8-5775-b9b4-f59faf30caa0
+status: valid

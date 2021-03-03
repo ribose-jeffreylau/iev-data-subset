@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2017-11-01T00:00:00+00:00'
+  definition: See {{IEV 444-04-18, IEV:444-04-18}}
+  examples: []
+  id: 821-05-54
+  language_code: eng
+  notes: []
+  review_date: '2017-11-01T00:00:00+00:00'
+  review_decision_date: '2017-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: break contact
+    normative_status: preferred
+    type: expression
+dateAccepted: 2017-11-01
+id: 1ecdc35c-1230-569f-b7c4-572c2a396bd3
+status: valid

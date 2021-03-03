@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-10
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: varrimento (linha a linha) entrelaçado
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 9dda9613-4415-5d31-9f48-83e63f1d28a2
+status: valid

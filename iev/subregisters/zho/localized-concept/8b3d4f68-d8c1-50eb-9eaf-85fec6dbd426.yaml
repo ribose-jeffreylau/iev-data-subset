@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 614-02-27
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 合闸
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 8b3d4f68-d8c1-50eb-9eaf-85fec6dbd426
+status: valid

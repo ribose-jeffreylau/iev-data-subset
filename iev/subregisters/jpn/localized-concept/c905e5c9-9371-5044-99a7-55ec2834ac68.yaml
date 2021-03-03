@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-10-01
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: テーパ導波管
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c905e5c9-9371-5044-99a7-55ec2834ac68
+status: valid

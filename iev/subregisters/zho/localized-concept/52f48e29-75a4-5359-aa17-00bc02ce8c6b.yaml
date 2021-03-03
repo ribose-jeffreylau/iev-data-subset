@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: zho
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 输出电路
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 52f48e29-75a4-5359-aa17-00bc02ce8c6b
+status: valid

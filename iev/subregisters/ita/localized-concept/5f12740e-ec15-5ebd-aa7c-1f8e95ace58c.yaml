@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-58
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: contrasto radiografico
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5f12740e-ec15-5ebd-aa7c-1f8e95ace58c
+status: valid

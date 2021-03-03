@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: coeficiente de sintonia pela corrente
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 22782bb8-07d6-5953-b7e1-4d09a4d68f48
+status: valid

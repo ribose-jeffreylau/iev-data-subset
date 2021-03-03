@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 726-17-06
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: girador de polarização não recíproco
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 70cae749-70a7-52e4-a34e-e7ea766e5308
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 448-14-04
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kytkevä distanssisuojaus
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 6dc003c7-f2b1-5856-839f-0038ed14e88d
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 102-01-04
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: subconjunto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: dd8ca16f-a5fb-508a-bf9f-faa1c93e7387
+status: valid

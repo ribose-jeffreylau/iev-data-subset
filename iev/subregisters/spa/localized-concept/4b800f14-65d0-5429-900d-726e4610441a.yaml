@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-18-24
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: código de cerramiento
+    normative_status: preferred
+    type: expression
+  - designation: código de enclavamiento
+    type: expression
+dateAccepted: 2018-11-17
+id: 4b800f14-65d0-5429-900d-726e4610441a
+status: valid

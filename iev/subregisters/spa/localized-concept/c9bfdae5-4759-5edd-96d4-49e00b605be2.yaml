@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 841-22-14
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: refrigeración
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c9bfdae5-4759-5edd-96d4-49e00b605be2
+status: valid

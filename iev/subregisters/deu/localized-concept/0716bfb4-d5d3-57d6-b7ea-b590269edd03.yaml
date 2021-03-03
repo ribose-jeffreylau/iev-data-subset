@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-04
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Reformer mit katalytischem Brenner
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 0716bfb4-d5d3-57d6-b7ea-b590269edd03
+status: valid

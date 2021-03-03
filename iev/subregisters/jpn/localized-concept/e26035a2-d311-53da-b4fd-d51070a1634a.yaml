@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: プッシング係数
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e26035a2-d311-53da-b4fd-d51070a1634a
+status: valid

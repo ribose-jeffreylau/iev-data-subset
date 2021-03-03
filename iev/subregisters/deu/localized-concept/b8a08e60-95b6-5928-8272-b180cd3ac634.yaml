@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2010-06-01T00:00:00+00:00'
+  examples: []
+  id: 212-18-31
+  language_code: deu
+  notes: []
+  review_date: '2010-06-01T00:00:00+00:00'
+  review_decision_date: '2010-06-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: freie Gase
+    gender: n
+    normative_status: preferred
+    plurality: plural
+    type: expression
+dateAccepted: 2010-06-01
+id: b8a08e60-95b6-5928-8272-b180cd3ac634
+status: valid

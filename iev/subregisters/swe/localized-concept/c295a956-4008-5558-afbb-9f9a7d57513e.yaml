@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-04-58
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kontrast
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c295a956-4008-5558-afbb-9f9a7d57513e
+status: valid

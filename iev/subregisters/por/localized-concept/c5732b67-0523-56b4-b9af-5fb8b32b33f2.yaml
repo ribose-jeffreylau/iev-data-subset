@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 436-02-11
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: condensador de acoplamento
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c5732b67-0523-56b4-b9af-5fb8b32b33f2
+status: valid

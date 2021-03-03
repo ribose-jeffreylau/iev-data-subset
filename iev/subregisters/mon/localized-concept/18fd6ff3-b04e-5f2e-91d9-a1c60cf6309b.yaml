@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 605-02-06
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: секцийн таслууртай систем шин
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 18fd6ff3-b04e-5f2e-91d9-a1c60cf6309b
+status: valid

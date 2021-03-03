@@ -1,0 +1,20 @@
+data:
+  identifier: 841-30-02
+  localizedConcepts:
+    ara: 587b50b8-f777-5c11-a538-6d68e90391bd
+    deu: ee2428fb-37ab-52a9-ad8c-2d02779d1257
+    eng: 10883bd2-c00d-5059-839f-0a37805d8511
+    fra: 349525bf-d1de-54c7-9652-566210fe5cea
+    ita: e4b7b97d-4d18-5a26-8496-ea4e7e89bfea
+    jpn: 94e147f1-7b8b-50de-9758-7da0f699eee2
+    kor: 0abe9f8c-d8eb-55b2-a494-15e3976e930d
+    pol: 3245fad5-db13-573b-be1c-e94baac8bfad
+    por: 0a0124a5-7619-5cca-917a-9c419fec1da4
+    spa: d5f21e15-c808-542c-b2a8-57f3b0e96348
+    srp: f0b7937e-33a7-5a03-8e39-62be0536dbd3
+    swe: 50202601-7117-5d5e-9cda-b051d2a3ea86
+    zho: de11d9db-f7a6-533a-bb51-b48aa5a20e1e
+dateAccepted: 2018-11-17
+id: 61e86f9b-84b3-590a-a28b-578ee07fa879
+related: []
+status: valid

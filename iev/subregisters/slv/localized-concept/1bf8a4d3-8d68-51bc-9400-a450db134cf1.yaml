@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 712-05-06
+  language_code: slv
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: izkoristek antene pri odprtinski anteni
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1bf8a4d3-8d68-51bc-9400-a450db134cf1
+status: valid

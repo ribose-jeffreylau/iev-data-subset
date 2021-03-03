@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-18-02
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: alternatore principale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 17bcdc4a-ef71-5908-a03c-8a7735dea799
+status: valid

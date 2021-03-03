@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 806-16-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: relative Empfindlichkeit eines magnetisierbaren Aufzeichnungsträgers
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: bezogen auf einen Bezugs-Aufzeichnungsträger
+dateAccepted: 2018-11-17
+id: d75d6c15-b808-5267-ab97-6d8863339224
+status: valid

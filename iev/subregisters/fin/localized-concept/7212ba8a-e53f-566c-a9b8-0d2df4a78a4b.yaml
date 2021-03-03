@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 411-41-14
+  language_code: fin
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: kommutaattorilamelli
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 7212ba8a-e53f-566c-a9b8-0d2df4a78a4b
+status: valid

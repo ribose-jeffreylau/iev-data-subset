@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-48
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Gleichrichteffekt
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 498fec1a-a046-5dc4-b357-c84054358a03
+status: valid

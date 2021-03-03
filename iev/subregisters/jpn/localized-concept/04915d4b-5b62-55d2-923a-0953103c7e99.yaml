@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-050
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 輝度
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 04915d4b-5b62-55d2-923a-0953103c7e99
+status: valid

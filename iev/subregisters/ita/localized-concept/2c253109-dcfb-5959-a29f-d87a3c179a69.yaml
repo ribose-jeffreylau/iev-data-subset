@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sensore remoto
+    normative_status: preferred
+    type: expression
+    usage_info: rilevazione di gas
+dateAccepted: 2018-11-17
+id: 2c253109-dcfb-5959-a29f-d87a3c179a69
+status: valid

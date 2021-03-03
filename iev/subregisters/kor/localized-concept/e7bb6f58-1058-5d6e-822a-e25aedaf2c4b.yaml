@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 551-16-51
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 역방향 저지 구간
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e7bb6f58-1058-5d6e-822a-e25aedaf2c4b
+status: valid

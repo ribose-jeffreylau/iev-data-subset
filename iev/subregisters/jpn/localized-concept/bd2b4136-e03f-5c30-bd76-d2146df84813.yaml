@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 721-19-28
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: ネットワーク制御段階
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: bd2b4136-e03f-5c30-bd76-d2146df84813
+status: valid

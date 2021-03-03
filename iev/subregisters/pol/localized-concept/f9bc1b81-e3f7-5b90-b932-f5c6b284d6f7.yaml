@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 447-01-34
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: przekaźnik ziemnozwarciowy
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: f9bc1b81-e3f7-5b90-b932-f5c6b284d6f7
+status: valid

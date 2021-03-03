@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-31-09
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Eyrings absorptionsfaktor
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ffac4d50-9407-5669-9aca-85eb701d616e
+status: valid

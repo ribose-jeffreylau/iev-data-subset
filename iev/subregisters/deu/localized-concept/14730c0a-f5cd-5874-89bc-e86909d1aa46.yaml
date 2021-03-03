@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-02-21
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Tonwecker
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 14730c0a-f5cd-5874-89bc-e86909d1aa46
+status: valid

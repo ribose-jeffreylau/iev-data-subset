@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-16-13
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 간접 수동 조작
+    normative_status: preferred
+    type: expression
+    usage_info: 기계개폐장치
+dateAccepted: 2018-11-17
+id: a4410eed-792d-5881-bffd-0d7946575513
+status: valid

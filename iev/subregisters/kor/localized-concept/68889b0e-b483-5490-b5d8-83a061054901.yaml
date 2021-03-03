@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-07
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 외부 개질
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 68889b0e-b483-5490-b5d8-83a061054901
+status: valid

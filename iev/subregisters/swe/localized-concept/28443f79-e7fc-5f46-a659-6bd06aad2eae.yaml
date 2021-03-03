@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-06-48
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: liktriktningsfel
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 28443f79-e7fc-5f46-a659-6bd06aad2eae
+status: valid

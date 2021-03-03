@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 815-10-14
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 자속 양자
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: eb8e9acd-a7ff-5c95-ab8a-ec014cb4b463
+status: valid

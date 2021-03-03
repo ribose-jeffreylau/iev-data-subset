@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 821-04-12
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: cambio de agujas de protección selectiva
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 5d6f874c-f82c-5b19-9116-c24e495cbc31
+status: valid

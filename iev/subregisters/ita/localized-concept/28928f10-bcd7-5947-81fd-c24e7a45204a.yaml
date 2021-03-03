@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 466-08-25
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tronco
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 28928f10-bcd7-5947-81fd-c24e7a45204a
+status: valid

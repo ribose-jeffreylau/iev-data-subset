@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-10-20
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: durata della conversazione
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: b40c09db-a558-5156-851d-a7b2546ff67b
+status: valid

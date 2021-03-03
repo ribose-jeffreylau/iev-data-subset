@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 801-21-20
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Schalldruck
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 84b4ad98-751b-5271-a88a-9d7e40571d00
+status: valid

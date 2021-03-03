@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-055
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: coordinate cromatiche spettrali
+    normative_status: preferred
+    plurality: plural
+    type: expression
+  - designation: coordinate tricromatiche spettrali
+    plurality: plural
+    type: expression
+dateAccepted: 2018-11-17
+id: c88ad9c9-63ec-5af2-89da-aa0e393093ab
+status: valid

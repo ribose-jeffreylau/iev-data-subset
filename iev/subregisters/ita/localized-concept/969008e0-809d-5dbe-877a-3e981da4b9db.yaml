@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 811-03-04
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: traffico netto
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 969008e0-809d-5dbe-877a-3e981da4b9db
+status: valid

@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-21-047
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: المدى الهندسي لحزمة أشعة
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 70dcd97c-de95-50e9-8a3b-917fc6cd708d
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 723-05-74
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Grauwert
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3ee19d9f-d378-5995-b158-243c80046d86
+status: valid

@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: czujnik zdalny
+    gender: m
+    normative_status: preferred
+    plurality: singular
+    type: expression
+    usage_info: detekcja gazów
+dateAccepted: 2018-11-17
+id: 2401ba85-90f3-5cc2-bd55-eaeec5ee1da0
+status: valid

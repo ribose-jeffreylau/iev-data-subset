@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-01-20
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: transformator suchy z uzwojeniem w izolacji monolitycznej
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 40d21161-e7a1-5749-9b79-ae6d6f76e196
+status: valid

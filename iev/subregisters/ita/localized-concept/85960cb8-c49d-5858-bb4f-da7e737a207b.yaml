@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 808-03-10
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: immagine (quadro) con scala dei grigi verticale
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 85960cb8-c49d-5858-bb4f-da7e737a207b
+status: valid

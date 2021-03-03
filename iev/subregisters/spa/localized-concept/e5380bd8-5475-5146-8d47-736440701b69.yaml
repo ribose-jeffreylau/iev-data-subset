@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 722-10-20
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: duración de conversación
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e5380bd8-5475-5146-8d47-736440701b69
+status: valid

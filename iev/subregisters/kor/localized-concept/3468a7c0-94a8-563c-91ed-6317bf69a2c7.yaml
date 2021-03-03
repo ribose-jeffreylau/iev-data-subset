@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 845-23-076
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: CIE 1976 L* a* b* 색공간
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 3468a7c0-94a8-563c-91ed-6317bf69a2c7
+status: valid

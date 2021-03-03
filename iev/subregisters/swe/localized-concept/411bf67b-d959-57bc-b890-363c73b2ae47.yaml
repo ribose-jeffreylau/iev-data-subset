@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: swe
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: indikeringsanordning
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 411bf67b-d959-57bc-b890-363c73b2ae47
+status: valid

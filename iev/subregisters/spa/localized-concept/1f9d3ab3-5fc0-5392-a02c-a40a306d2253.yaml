@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 561-04-05
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: autoclave
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 1f9d3ab3-5fc0-5392-a02c-a40a306d2253
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-07-09
+  language_code: pol
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: sygnał zgłoszenia strony żądanej bez zaliczania
+    normative_status: preferred
+    type: expression
+  - designation: sygnał zgłoszenia strony żądanej (3)
+    type: expression
+dateAccepted: 2018-11-17
+id: 495fea97-ebf1-5dc5-8fb3-d7f4eafb995b
+status: valid

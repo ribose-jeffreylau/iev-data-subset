@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 602-01-04
+  language_code: nob
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: vannkraftstasjon
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: e5a42190-3e62-5055-9044-e7461ffe25d0
+status: valid

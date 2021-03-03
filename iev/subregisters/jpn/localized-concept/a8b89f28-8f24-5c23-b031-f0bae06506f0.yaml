@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-54
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 選択性
+    normative_status: preferred
+    type: expression
+    usage_info: ガス検知
+dateAccepted: 2018-11-17
+id: a8b89f28-8f24-5c23-b031-f0bae06506f0
+status: valid

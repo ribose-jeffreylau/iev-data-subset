@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-10-21
+  language_code: kor
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 횡방향 투영
+    normative_status: preferred
+    type: expression
+  - designation: 횡방향 촬영
+    type: expression
+dateAccepted: 2018-11-17
+id: 1c7fd053-e7bb-58c3-b2d8-d309023ff422
+status: valid

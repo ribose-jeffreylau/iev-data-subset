@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: tensión transitoria de restablecimiento prevista (de un circuito)
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 11bb68a4-7aa6-5118-97b8-e9902aae289a
+status: valid

@@ -1,0 +1,19 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-18-17
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: заагч хэрэгсэл
+    normative_status: preferred
+    type: expression
+  - designation: заагч
+    type: expression
+  - designation: индикатор
+    type: expression
+dateAccepted: 2018-11-17
+id: 0b70f0ae-fb36-5ac2-bec2-3ca14cbad6d9
+status: valid

@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 714-15-13
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Rückstellen
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: af387621-c22c-58b2-9c5e-00547107a485
+status: valid

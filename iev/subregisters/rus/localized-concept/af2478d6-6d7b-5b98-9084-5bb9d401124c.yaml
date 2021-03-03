@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 426-24-48
+  language_code: rus
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: дистанционный датчик
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: af2478d6-6d7b-5b98-9084-5bb9d401124c
+status: valid

@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-20-06
+  language_code: ara
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: زمن بدء التشغيل
+    normative_status: preferred
+    type: expression
+    usage_info: لأنظمة القوى لخلايا الوقود التي تتطلب طاقة خارجية
+dateAccepted: 2018-11-17
+id: 4c227175-2f46-5d07-b15f-bde190cf16de
+status: valid

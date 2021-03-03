@@ -1,0 +1,16 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 441-17-29
+  language_code: srp
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: очекивани повратни напон
+    normative_status: preferred
+    type: expression
+    usage_info: струјног кола
+dateAccepted: 2018-11-17
+id: f6609f0b-4b4c-5e18-8a7c-c0f5acb91f18
+status: valid

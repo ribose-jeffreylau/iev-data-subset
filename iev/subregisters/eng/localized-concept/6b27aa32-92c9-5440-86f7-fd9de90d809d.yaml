@@ -1,0 +1,20 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2021-01-01T00:00:00+00:00'
+  definition: a waveguide whose transverse cross-section dimensions change progressively
+    with distance along its longitudinal axis
+  examples: []
+  id: 726-10-01
+  language_code: eng
+  notes: []
+  review_date: '2021-01-01T00:00:00+00:00'
+  review_decision_date: '2021-01-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: tapered waveguide
+    normative_status: preferred
+    type: expression
+dateAccepted: 2021-01-01
+id: 6b27aa32-92c9-5440-86f7-fd9de90d809d
+status: valid

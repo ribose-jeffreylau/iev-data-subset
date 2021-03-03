@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 702-01-13
+  language_code: ita
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: deriva di frequenza
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 4963840b-0096-5ab4-b533-fd1f4d9f95c2
+status: valid

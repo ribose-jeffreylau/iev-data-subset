@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 444-04-01
+  language_code: por
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: circuito de saída
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d78257a7-9121-571e-8c77-df52b4ce98bc
+status: valid

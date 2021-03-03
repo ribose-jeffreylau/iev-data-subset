@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-02-65
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: partícula alfa
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: 267a3668-bcb0-5dbf-8679-0d22d90e71ef
+status: valid

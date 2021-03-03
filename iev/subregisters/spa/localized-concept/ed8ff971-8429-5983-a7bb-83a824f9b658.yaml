@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 881-07-07
+  language_code: spa
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: potencia máxima asignada de un tubo de rayos X
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: ed8ff971-8429-5983-a7bb-83a824f9b658
+status: valid

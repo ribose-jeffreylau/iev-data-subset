@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 421-05-05
+  language_code: mon
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: хасах тавил
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: d4178342-892d-580d-a5cb-6989c099553b
+status: valid

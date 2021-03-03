@@ -1,0 +1,18 @@
+data:
+  authoritativeSource:
+  - {}
+  date_amended: '2013-11-01T00:00:00+00:00'
+  examples: []
+  id: 351-42-39
+  language_code: zho
+  notes: []
+  review_date: '2013-11-01T00:00:00+00:00'
+  review_decision_date: '2013-11-01T00:00:00+00:00'
+  review_decision_event: published
+  terms:
+  - designation: 推理机
+    normative_status: preferred
+    type: expression
+dateAccepted: 2013-11-01
+id: e25ea776-3e51-56b5-b2c2-135a13c28cb6
+status: valid

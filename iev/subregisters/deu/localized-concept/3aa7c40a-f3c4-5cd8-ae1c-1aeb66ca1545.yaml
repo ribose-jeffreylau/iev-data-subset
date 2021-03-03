@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 485-07-07
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: externe Reformierung
+    gender: f
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 3aa7c40a-f3c4-5cd8-ae1c-1aeb66ca1545
+status: valid

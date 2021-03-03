@@ -1,0 +1,17 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 531-41-09
+  language_code: deu
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: Stromverstimmungsmaß
+    gender: n
+    normative_status: preferred
+    plurality: singular
+    type: expression
+dateAccepted: 2018-11-17
+id: 6957c900-a19a-5ae7-8635-4a3ef055c0e7
+status: valid

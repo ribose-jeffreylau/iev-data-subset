@@ -1,0 +1,15 @@
+data:
+  authoritativeSource:
+  - {}
+  examples: []
+  id: 713-07-19
+  language_code: jpn
+  notes: []
+  review_decision_event: published
+  terms:
+  - designation: 多値変調
+    normative_status: preferred
+    type: expression
+dateAccepted: 2018-11-17
+id: c401a1b6-cc95-525e-82c4-7c854037ecbc
+status: valid
