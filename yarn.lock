@@ -1187,10 +1187,8 @@
   resolved "https://registry.yarnpkg.com/@riboseinc/paneron-registry-kit/-/paneron-registry-kit-2.0.0-dev17.tgz#994406868ef3e0e234fc938d95a7dcca197ec827"
   integrity sha512-Gh8bZxsl6H1vRAiRWTQPqmhcK5dwuBuvjFpDU83kyVLqZ+qXjcQ980d9Y3+g1G7Q6B+9k/P3CZf4u1ESj+PNpw==
 
-"@riboseinc/react-static-plugin-paneron-registry@1.1.2":
+"@riboseinc/react-static-plugin-paneron-registry@file:../../../Ribose-Paneron-2/developer/react-static-plugin-paneron-registry/dist":
   version "1.1.2"
-  resolved "https://registry.yarnpkg.com/@riboseinc/react-static-plugin-paneron-registry/-/react-static-plugin-paneron-registry-1.1.2.tgz#e4f7939f5c036ece0834e921d84416dd0e426d19"
-  integrity sha512-0iuhuvv+mSFwvMjCyl7htGyuuVcOH0zuN1k2eGX4AaXtWyw+7Fx//+Cbm2D6vuG/ltDdY20DZYOHBVw2J693Mw==
   dependencies:
     "@blueprintjs/core" "^3.42.0"
     "@blueprintjs/datetime" "^3.22.0"
