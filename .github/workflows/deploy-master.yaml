@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '42 */12 * * *'
   push:
-    branches: [ master ]
+    branches: master
   repository_dispatch:
     types: [ deploy_master ]
   workflow_dispatch:
