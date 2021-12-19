@@ -50,6 +50,7 @@ proposals:
         - designation: '`*J*`'
           international: true
           type: symbol
+    disposition: accepted
 sponsor:
   role: submitter
   gitServerUsername: demouser
@@ -61,5 +62,7 @@ sponsor:
           value: open.source@ribose.com
 id: 9d59ae32-fea3-4811-b532-80c916a8fdc7
 timeStarted: 2021-12-19T16:55:05.383Z
-status: pending
+status: final
 timeProposed: 2021-12-19T16:55:05.383Z
+timeDisposed: 2021-12-19T16:55:09.165Z
+disposition: accepted
