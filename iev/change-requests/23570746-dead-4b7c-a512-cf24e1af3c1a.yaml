@@ -1,0 +1,18 @@
+justification: test
+controlBodyNotes: ''
+proposals:
+  /subregisters/universal/concept/73083dd9-39cb-5212-a49c-9bb921a11530.yaml:
+    type: amendment
+    amendmentType: retirement
+sponsor:
+  role: submitter
+  gitServerUsername: demouser
+  name: demo user
+  parties:
+    - name: Ribose inc.
+      contacts:
+        - label: email
+          value: open.source@ribose.com
+id: 23570746-dead-4b7c-a512-cf24e1af3c1a
+timeStarted: 2023-02-17T12:17:44.548Z
+status: pending
