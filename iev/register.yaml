@@ -23,3 +23,7 @@ stakeholders:
         contacts:
           - label: email
             value: 'open@ribose.com'
+
+version:
+  id: 1.0
+  timestamp: 2023-03-19T11:01:56.321Z
