@@ -17,7 +17,7 @@ operatingLanguage:
 stakeholders:
   - role: owner
     name: Demo user
-    gitServerUsername: demouser
+    gitServerUsername: strogonoff
     parties:
       - name: ''
         contacts:
