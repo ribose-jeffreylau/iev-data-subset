@@ -1,19 +1,17 @@
 name: Electropedia
-
 uniformResourceIdentifier: https://iev.demo.paneron.org
-
 contentSummary: >-
-  Containing terms and definitions from International Electrotechnical Vocabulary produced by IEC,
-  Electropedia (also known as IEV Online)
-  is the world's most comprehensive online terminology database on “electrotechnology”.
-  (NOTE: this register represents a subset of Electropedia to demonstrate an implementation based on Paneron-powered ISO 19135-1 compliant registry solution currently under active development.)
-
+  Containing terms and definitions from International Electrotechnical
+  Vocabulary produced by IEC, Electropedia (also known as IEV Online) is the
+  world's most comprehensive online terminology database on “electrotechnology”.
+  (NOTE: this register represents a subset of Electropedia to demonstrate an
+  implementation based on Paneron-powered ISO 19135-1 compliant registry
+  solution currently under active development.)
 operatingLanguage:
   name: English
   languageCode: eng
   characterEncoding: utf-8
   country: N/A
-
 stakeholders:
   - role: owner
     name: Demo user
@@ -22,4 +20,7 @@ stakeholders:
       - name: ''
         contacts:
           - label: email
-            value: 'open@ribose.com'
+            value: open@ribose.com
+version:
+  id: '1.0'
+  timestamp: 2023-03-19T11:31:40.873Z
