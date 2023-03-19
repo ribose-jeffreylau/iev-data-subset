@@ -2,6 +2,8 @@ id: 2a5f7aa4-cfac-4d48-a9fe-dd82c25076b6
 timeStarted: 2023-03-19T11:40:23.742Z
 justification: Add a thing
 submittingStakeholderGitServerUsername: strogonoff
-items: {}
+items:
+  /subregisters/eng/localized-concept/404a9373-59eb-5797-81f2-cf23af97909d.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.0'
